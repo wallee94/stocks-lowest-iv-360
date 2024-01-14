@@ -1,4 +1,4 @@
-name: dailypaintworks-sync
+name: stocks-readme-table-sync
 on:
   workflow_dispatch:
   schedule:
@@ -27,9 +27,9 @@ jobs:
       - name: Sync readme
         run: python main.py
         env:
-          EODMETRICS_QID: ${{ vars.ARTIST_IDS }}
-          EODMETRICS_EMAIL: ${{ vars.EODMETRICS_EMAIL }}
-          EODMETRICS_PASSWORD: ${{ vars.EODMETRICS_PASSWORD }}
+          EODMETRICS_QID: ${{ secrets.EODMETRICS_QID }}
+          EODMETRICS_EMAIL: ${{ secrets.EODMETRICS_EMAIL }}
+          EODMETRICS_PASSWORD: ${{ secrets.EODMETRICS_PASSWORD }}
           EODMETRICS_USER_AGENT: ${{ vars.EODMETRICS_USER_AGENT }}
       - name: Commit and push if it changed
         run: |
