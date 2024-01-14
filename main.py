@@ -100,5 +100,5 @@ def create_readme(src):
 
 if __name__ == "__main__":
     filename = 'data.json'
-    # create_json_file(filename)
+    create_json_file(filename)
     create_readme(src=filename)
