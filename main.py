@@ -89,6 +89,8 @@ def create_readme(src):
     for d in data:
         t = d["Ticker"]
         d["Ticker"] = f"[{t}](https://finviz.com/quote.ashx?t={t}&p=w)"
+        del d["Market Cap"]
+        del d["Volume"]
 
     table = md_table(data)
     s = tmpl.format(table=table, date=date.today().isoformat())
