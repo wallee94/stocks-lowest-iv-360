@@ -4,7 +4,7 @@ List of stock tickers with the lowest mean implied volatility over 360 days. If 
 
 Includes only stocks (non-funds) with average daily volume > 500,000.
 
-## Data (updated on 2024-02-04)
+## Data (updated on 2024-02-05)
 
 | Ticker | Security Name | Closing Price | 360-Day Mean IV | Industry | Sector | 30-Day Call IV | 30-Day Put IV |
 |-----|-----|-----|-----|-----|-----|-----|-----|
@@ -133,6 +133,7 @@ Includes only stocks (non-funds) with average daily volume > 500,000.
 | [MTG](https://finviz.com/quote.ashx?t=MTG&p=w) | MGIC Investment Corporation | 19.81 | 20.5 | Insurance - Specialty | Financial Services | 20.07 | 28.35 |
 | [VICI](https://finviz.com/quote.ashx?t=VICI&p=w) | VICI Properties Inc. | 30.55 | 20.55 | REIT - Diversified | Real Estate | 19.48 | 20.05 |
 | [TU](https://finviz.com/quote.ashx?t=TU&p=w) | TELUS Corporation | 17.71 | 20.57 | Telecom Services | Communication Services | 20.48 | 24.63 |
+| [CBOE](https://finviz.com/quote.ashx?t=CBOE&p=w) | Cboe Global Markets, Inc. | 182.78 | 20.59 | Financial Data & Stock Exchanges | Financial Services | 16.9 | 17.82 |
 | [KHC](https://finviz.com/quote.ashx?t=KHC&p=w) | Kraft Heinz Company | 37.65 | 20.69 | Packaged Foods | Consumer Defensive | 18.66 | 25.21 |
 | [DOV](https://finviz.com/quote.ashx?t=DOV&p=w) | Dover Corporation | 158.75 | 20.72 | Specialty Industrial Machinery | Industrials | 17.83 | 19.49 |
 | [CHD](https://finviz.com/quote.ashx?t=CHD&p=w) | Church & Dwight Co., Inc. | 99.37 | 20.74 | Household & Personal Products | Consumer Defensive | 16.74 | 18.92 |
@@ -157,5 +158,4 @@ Includes only stocks (non-funds) with average daily volume > 500,000.
 | [PAYX](https://finviz.com/quote.ashx?t=PAYX&p=w) | Paychex, Inc. | 121.77 | 21.2 | Staffing & Employment Services | Industrials | 15.37 | 22.21 |
 | [APH](https://finviz.com/quote.ashx?t=APH&p=w) | Amphenol Corporation | 103.46 | 21.22 | Electronic Components | Technology | 17.46 | 17.09 |
 | [TMUS](https://finviz.com/quote.ashx?t=TMUS&p=w) | T-Mobile US, Inc. | 161.78 | 21.27 | Telecom Services | Communication Services | 14.15 | 18.18 |
-| [CSX](https://finviz.com/quote.ashx?t=CSX&p=w) | CSX Corporation | 36.53 | 21.28 | Railroads | Industrials | 16.04 | 18.48 |
 
