@@ -4,7 +4,7 @@ List of stock tickers with the lowest mean implied volatility over 360 days. If 
 
 Includes only stocks (non-funds) with average daily volume > 500,000.
 
-## Data (updated on 2024-03-17)
+## Data (updated on 2024-03-18)
 
 | Ticker | Security Name | Closing Price | 360-Day Mean IV | Industry | Sector | 30-Day Call IV | 30-Day Put IV |
 |-----|-----|-----|-----|-----|-----|-----|-----|
@@ -74,6 +74,7 @@ Includes only stocks (non-funds) with average daily volume > 500,000.
 | [ELV](https://finviz.com/quote.ashx?t=ELV&p=w) | Elevance Health, Inc. | 513.08 | 23.46 | Healthcare Plans | Healthcare | 21.83 | 22.08 |
 | [FI](https://finviz.com/quote.ashx?t=FI&p=w) | Fiserv, Inc. | 149.63 | 23.53 | Information Technology Services | Technology | 16.44 | 18.15 |
 | [PXD](https://finviz.com/quote.ashx?t=PXD&p=w) | Pioneer Natural Resources Company | 249.96 | 23.54 | Oil & Gas E&P | Energy | 19.68 | 19.17 |
+| [CBOE](https://finviz.com/quote.ashx?t=CBOE&p=w) | Cboe Global Markets, Inc. | 183.52 | 23.59 | Financial Data & Stock Exchanges | Financial Services | 23.68 | 22.04 |
 | [CAG](https://finviz.com/quote.ashx?t=CAG&p=w) | Conagra Brands | 28.07 | 23.64 | Packaged Foods | Consumer Defensive | 25.86 | 25.29 |
 | [SPGI](https://finviz.com/quote.ashx?t=SPGI&p=w) | S&P Global Inc. | 422.81 | 24.03 | Financial Data & Stock Exchanges | Financial Services | 17.23 | 17.84 |
 | [MMM](https://finviz.com/quote.ashx?t=MMM&p=w) | 3M Company | 105.0 | 24.04 | Conglomerates | Industrials | 26.71 | 24.31 |
@@ -157,5 +158,4 @@ Includes only stocks (non-funds) with average daily volume > 500,000.
 | [USB](https://finviz.com/quote.ashx?t=USB&p=w) | U.S. Bancorp | 42.08 | 30.43 | Banks - Regional | Financial Services | 25.94 | 35.12 |
 | [NTR](https://finviz.com/quote.ashx?t=NTR&p=w) | Nutrien Ltd. | 53.76 | 30.45 | Agricultural Inputs | Basic Materials | 22.91 | 31.29 |
 | [TRIP](https://finviz.com/quote.ashx?t=TRIP&p=w) | TripAdvisor, Inc. | 27.34 | 30.51 | Travel Services | Industrials | 33.25 | 34.29 |
-| [SLB](https://finviz.com/quote.ashx?t=SLB&p=w) | Schlumberger Limited | 52.87 | 30.54 | Oil & Gas Equipment & Services | Energy | 27.14 | 35.52 |
 
