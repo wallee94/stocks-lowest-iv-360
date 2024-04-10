@@ -4,158 +4,158 @@ List of stock tickers with the lowest mean implied volatility over 360 days. If 
 
 Includes only stocks (non-funds) with average daily volume > 500,000.
 
-## Data (updated on 2024-04-09)
+## Data (updated on 2024-04-10)
 
 | Ticker | Security Name | Closing Price | 360-Day Mean IV | Industry | Sector | 30-Day Call IV | 30-Day Put IV |
 |-----|-----|-----|-----|-----|-----|-----|-----|
-| [SWAV](https://finviz.com/quote.ashx?t=SWAV&p=w) | ShockWave Medical, Inc. | 326.34 | None | Medical Devices | Healthcare | 6.48 | None |
-| [AGTI](https://finviz.com/quote.ashx?t=AGTI&p=w) | Agiliti, Inc. | 10.04 | None | Health Information Services | Healthcare | 10.07 | 8.8 |
-| [EPD](https://finviz.com/quote.ashx?t=EPD&p=w) | Enterprise Products Partners L.P. | 29.73 | None | Oil & Gas Midstream | Energy | 11.42 | 25.46 |
-| [KMI](https://finviz.com/quote.ashx?t=KMI&p=w) | Kinder Morgan, Inc. | 18.46 | None | Oil & Gas Midstream | Energy | 14.24 | 23.61 |
-| [TD](https://finviz.com/quote.ashx?t=TD&p=w) | Toronto Dominion Bank (The) | 59.32 | None | Banks - Diversified | Financial Services | 14.41 | 29.43 |
-| [ET](https://finviz.com/quote.ashx?t=ET&p=w) | Energy Transfer LP | 15.84 | None | Oil & Gas Midstream | Energy | 15.27 | 17.73 |
-| [ENB](https://finviz.com/quote.ashx?t=ENB&p=w) | Enbridge Inc | 35.35 | None | Oil & Gas Midstream | Energy | 15.31 | None |
-| [SO](https://finviz.com/quote.ashx?t=SO&p=w) | Southern Company (The) | 69.91 | None | Utilities - Regulated Electric | Utilities | 15.41 | 19.88 |
-| [MPLX](https://finviz.com/quote.ashx?t=MPLX&p=w) | MPLX LP | 42.13 | None | Oil & Gas Midstream | Energy | 15.75 | 18.85 |
-| [ARR](https://finviz.com/quote.ashx?t=ARR&p=w) | ARMOUR Residential REIT, Inc. | 19.45 | None | REIT - Mortgage | Real Estate | 16.01 | 40.0 |
-| [HTGC](https://finviz.com/quote.ashx?t=HTGC&p=w) | Hercules Capital, Inc. | 18.41 | None | Asset Management | Financial Services | 16.23 | 22.64 |
-| [PAGP](https://finviz.com/quote.ashx?t=PAGP&p=w) | Plains Group Holdings, L.P. | 19.3 | None | Oil & Gas Midstream | Energy | 16.54 | 29.21 |
-| [OHI](https://finviz.com/quote.ashx?t=OHI&p=w) | Omega Healthcare Investors, Inc. | 31.95 | None | REIT - Healthcare Facilities | Real Estate | 17.15 | 25.39 |
-| [FE](https://finviz.com/quote.ashx?t=FE&p=w) | FirstEnergy Corporation | 38.01 | None | Utilities - Regulated Electric | Utilities | 17.46 | None |
-| [AM](https://finviz.com/quote.ashx?t=AM&p=w) | Antero Midstream Corporation | 14.29 | None | Oil & Gas Midstream | Energy | 17.71 | 26.86 |
-| [BNS](https://finviz.com/quote.ashx?t=BNS&p=w) | Bank of Nova Scotia (The) | 49.96 | None | Banks - Diversified | Financial Services | 18.08 | 17.76 |
-| [TAST](https://finviz.com/quote.ashx?t=TAST&p=w) | Carrols Restaurant Group, Inc. | 9.48 | None | Restaurants | Consumer Cyclical | 18.22 | 121.47 |
-| [BTI](https://finviz.com/quote.ashx?t=BTI&p=w) | British American Tobacco p.l.c. | 29.6 | None | Tobacco | Consumer Defensive | 18.53 | 18.35 |
-| [TRP](https://finviz.com/quote.ashx?t=TRP&p=w) | TC Energy Corporation | 38.21 | None | Oil & Gas Midstream | Energy | 18.78 | None |
-| [EPR](https://finviz.com/quote.ashx?t=EPR&p=w) | EPR Properties | 41.42 | None | REIT - Specialty | Real Estate | 20.6 | 26.63 |
-| [AGNC](https://finviz.com/quote.ashx?t=AGNC&p=w) | AGNC Investment Corp. | 9.66 | None | REIT - Mortgage | Real Estate | 20.8 | 31.28 |
-| [BCE](https://finviz.com/quote.ashx?t=BCE&p=w) | BCE, Inc. | 32.93 | None | Telecom Services | Communication Services | 20.91 | 19.09 |
-| [PAA](https://finviz.com/quote.ashx?t=PAA&p=w) | Plains All American Pipeline, L.P. | 18.56 | None | Oil & Gas Midstream | Energy | 21.71 | 50.04 |
-| [STWD](https://finviz.com/quote.ashx?t=STWD&p=w) | STARWOOD PROPERTY TRUST, INC. | 19.67 | None | REIT - Mortgage | Real Estate | 23.27 | None |
-| [NLY](https://finviz.com/quote.ashx?t=NLY&p=w) | Annaly Capital Management Inc | 19.23 | None | REIT - Mortgage | Real Estate | 23.54 | 23.57 |
-| [RCI](https://finviz.com/quote.ashx?t=RCI&p=w) | Rogers Communication, Inc. | 39.62 | None | Telecom Services | Communication Services | 23.99 | 23.39 |
-| [MTG](https://finviz.com/quote.ashx?t=MTG&p=w) | MGIC Investment Corporation | 20.68 | None | Insurance - Specialty | Financial Services | 24.82 | 31.74 |
-| [TCPC](https://finviz.com/quote.ashx?t=TCPC&p=w) | BLACKROCK TCP CAPITAL CORP. | 10.14 | None | Asset Management | Financial Services | 25.32 | None |
-| [SBRA](https://finviz.com/quote.ashx?t=SBRA&p=w) | Sabra Healthcare REIT, Inc. | 14.48 | None | REIT - Healthcare Facilities | Real Estate | 27.76 | None |
-| [IVZ](https://finviz.com/quote.ashx?t=IVZ&p=w) | Invesco Ltd. | 16.65 | None | Asset Management | Financial Services | 28.78 | 32.67 |
-| [BXMT](https://finviz.com/quote.ashx?t=BXMT&p=w) | Blackstone Mortgage Trust, Inc. | 19.27 | None | REIT - Mortgage | Real Estate | 29.14 | 28.45 |
-| [PK](https://finviz.com/quote.ashx?t=PK&p=w) | Park Hotels & Resorts Inc. | 17.39 | None | REIT - Hotel & Motel | Real Estate | 29.95 | None |
-| [VOD](https://finviz.com/quote.ashx?t=VOD&p=w) | Vodafone Group PLC | 8.62 | None | Telecom Services | Communication Services | 32.76 | 32.31 |
-| [YMM](https://finviz.com/quote.ashx?t=YMM&p=w) | Full Truck Alliance Co. Ltd. Sponsored ADR | 7.52 | None | Software - Application | Technology | 37.55 | 37.3 |
-| [IRT](https://finviz.com/quote.ashx?t=IRT&p=w) | Independence Realty Trust, Inc. | 15.37 | None | REIT - Residential | Real Estate | 37.66 | 48.86 |
-| [SUZ](https://finviz.com/quote.ashx?t=SUZ&p=w) | Suzano S.A. Sponsored ADR | 12.38 | None | Paper & Paper Products | Basic Materials | 42.17 | 33.29 |
-| [ELME](https://finviz.com/quote.ashx?t=ELME&p=w) | Elme Communities | 14.13 | None | REIT - Residential | Real Estate | 53.75 | None |
-| [HR](https://finviz.com/quote.ashx?t=HR&p=w) | Healthcare Realty Trust Incorporated | 13.87 | None | REIT - Healthcare Facilities | Real Estate | 68.73 | 54.13 |
-| [NMRK](https://finviz.com/quote.ashx?t=NMRK&p=w) | Newmark Group, Inc. | 10.95 | None | Real Estate Services | Real Estate | 72.94 | None |
-| [IVR](https://finviz.com/quote.ashx?t=IVR&p=w) | INVESCO MORTGAGE CAPITAL INC | 8.85 | None | REIT - Mortgage | Real Estate | 77.54 | None |
-| [ROIC](https://finviz.com/quote.ashx?t=ROIC&p=w) | Retail Opportunity Investments Corp. | 12.26 | None | REIT - Retail | Real Estate | 96.58 | 67.72 |
-| [OCSL](https://finviz.com/quote.ashx?t=OCSL&p=w) | Oaktree Specialty Lending Corp. | 19.45 | 12.54 | Credit Services | Financial Services | 18.49 | 20.73 |
-| [FUSN](https://finviz.com/quote.ashx?t=FUSN&p=w) | Fusion Pharmaceuticals Inc. | 21.32 | 12.85 | Biotechnology | Healthcare | 24.39 | 21.73 |
-| [AXNX](https://finviz.com/quote.ashx?t=AXNX&p=w) | Axonics Inc. | 67.85 | 14.14 | Medical Devices | Healthcare | 13.54 | 20.52 |
-| [KO](https://finviz.com/quote.ashx?t=KO&p=w) | CocaCola Company (The) | 59.51 | 15.42 | Beverages - Non-Alcoholic | Consumer Defensive | 15.39 | 15.12 |
-| [ONB](https://finviz.com/quote.ashx?t=ONB&p=w) | Old National Bancorp | 16.59 | 15.74 | Banks - Regional | Financial Services | 20.24 | 28.06 |
-| [UL](https://finviz.com/quote.ashx?t=UL&p=w) | Unilever PLC | 48.44 | 15.9 | Household & Personal Products | Consumer Defensive | 15.61 | 18.89 |
-| [ADC](https://finviz.com/quote.ashx?t=ADC&p=w) | Agree Realty Corporation | 56.03 | 16.04 | REIT - Retail | Real Estate | 40.56 | None |
-| [L](https://finviz.com/quote.ashx?t=L&p=w) | Loews Corporation | 76.66 | 16.09 | Insurance - Property & Casualty | Financial Services | 18.15 | None |
-| [NNN](https://finviz.com/quote.ashx?t=NNN&p=w) | NNN REIT, Inc. | 41.51 | 16.53 | REIT - Retail | Real Estate | 33.28 | None |
-| [PG](https://finviz.com/quote.ashx?t=PG&p=w) | Procter & Gamble Company (The) | 156.1 | 16.89 | Household & Personal Products | Consumer Defensive | 14.12 | 21.03 |
-| [PEP](https://finviz.com/quote.ashx?t=PEP&p=w) | PepsiCo, Inc. | 169.14 | 16.97 | Beverages - Non-Alcoholic | Consumer Defensive | 17.21 | 18.18 |
-| [ED](https://finviz.com/quote.ashx?t=ED&p=w) | Consolidated Edison Inc | 89.65 | 17.17 | Utilities - Regulated Electric | Utilities | 17.88 | 20.27 |
-| [EQC](https://finviz.com/quote.ashx?t=EQC&p=w) | Equity Commonwealth | 18.65 | 17.26 | REIT - Office | Real Estate | 54.12 | 56.07 |
-| [BXSL](https://finviz.com/quote.ashx?t=BXSL&p=w) | Blackstone Secured Lending Fund | 30.9 | 17.29 | Asset Management | Financial Services | 18.97 | None |
-| [RSG](https://finviz.com/quote.ashx?t=RSG&p=w) | Republic Services, Inc. | 188.4 | 17.33 | Waste Management | Industrials | 15.96 | 16.2 |
-| [ATO](https://finviz.com/quote.ashx?t=ATO&p=w) | Atmos Energy Corporation | 116.23 | 17.75 | Utilities - Regulated Gas | Utilities | 17.66 | 19.87 |
-| [CL](https://finviz.com/quote.ashx?t=CL&p=w) | Colgate-Palmolive Company | 87.88 | 17.82 | Household & Personal Products | Consumer Defensive | 15.49 | 25.32 |
-| [DUK](https://finviz.com/quote.ashx?t=DUK&p=w) | Duke Energy Corporation | 95.91 | 17.9 | Utilities - Regulated Electric | Utilities | 15.79 | None |
-| [MCD](https://finviz.com/quote.ashx?t=MCD&p=w) | McDonald's Corporation | 266.69 | 17.9 | Restaurants | Consumer Cyclical | 19.28 | 19.6 |
-| [BRK.B](https://finviz.com/quote.ashx?t=BRK.B&p=w) | Berkshire Hathaway Inc. | 418.62 | 17.96 | Insurance - Diversified | Financial Services | 15.31 | 15.82 |
-| [RY](https://finviz.com/quote.ashx?t=RY&p=w) | Royal Bank Of Canada | 102.34 | 18.1 | Banks - Diversified | Financial Services | 14.8 | 21.98 |
-| [JNJ](https://finviz.com/quote.ashx?t=JNJ&p=w) | Johnson & Johnson | 152.39 | 18.17 | Drug Manufacturers - General | Healthcare | 16.78 | 17.34 |
-| [ETR](https://finviz.com/quote.ashx?t=ETR&p=w) | Entergy Corporation | 104.23 | 18.4 | Utilities - Regulated Electric | Utilities | 16.25 | 20.3 |
-| [OTIS](https://finviz.com/quote.ashx?t=OTIS&p=w) | Otis Worldwide Corporation | 97.77 | 18.62 | Specialty Industrial Machinery | Industrials | 18.02 | 18.51 |
-| [KMB](https://finviz.com/quote.ashx?t=KMB&p=w) | Kimberly-Clark Corporation | 126.31 | 18.62 | Household & Personal Products | Consumer Defensive | 19.03 | 23.11 |
-| [MO](https://finviz.com/quote.ashx?t=MO&p=w) | Altria Group, Inc. | 41.65 | 18.66 | Tobacco | Consumer Defensive | 26.48 | 18.75 |
-| [GLPI](https://finviz.com/quote.ashx?t=GLPI&p=w) | Gaming and Leisure Properties, Inc. | 45.16 | 18.66 | REIT - Specialty | Real Estate | 29.97 | 18.61 |
-| [HIG](https://finviz.com/quote.ashx?t=HIG&p=w) | The Hartford Financial Services Group, Inc. | 103.24 | 18.72 | Insurance - Diversified | Financial Services | 19.34 | 20.94 |
-| [CM](https://finviz.com/quote.ashx?t=CM&p=w) | Canadian Imperial Bank of Commerce | 49.69 | 18.86 | Banks - Diversified | Financial Services | 17.73 | 18.51 |
-| [MMC](https://finviz.com/quote.ashx?t=MMC&p=w) | Marsh & McLennan Companies, Inc. | 205.58 | 18.9 | Insurance Brokers | Financial Services | 17.02 | 19.26 |
-| [ARHS](https://finviz.com/quote.ashx?t=ARHS&p=w) | Arhaus, Inc. | 15.7 | 19.09 | Home Improvement Retail | Consumer Cyclical | 14.18 | 17.18 |
-| [WM](https://finviz.com/quote.ashx?t=WM&p=w) | Waste Management, Inc. | 206.93 | 19.12 | Waste Management | Industrials | 20.59 | 21.04 |
-| [WDS](https://finviz.com/quote.ashx?t=WDS&p=w) | Woodside Petroleum Ltd. | 20.24 | 19.17 | Oil & Gas E&P | Energy | 33.45 | 25.0 |
-| [CNI](https://finviz.com/quote.ashx?t=CNI&p=w) | Canadian National Railway Company | 129.74 | 19.21 | Railroads | Industrials | 19.1 | 18.83 |
-| [BRO](https://finviz.com/quote.ashx?t=BRO&p=w) | Brown & Brown, Inc. | 85.15 | 19.25 | Insurance Brokers | Financial Services | 25.18 | 31.37 |
-| [VICI](https://finviz.com/quote.ashx?t=VICI&p=w) | VICI Properties Inc. | 29.32 | 19.38 | REIT - Diversified | Real Estate | 23.43 | 16.46 |
-| [AMCR](https://finviz.com/quote.ashx?t=AMCR&p=w) | Amcor PLC | 9.21 | 19.48 | Packaging & Containers | Consumer Cyclical | 22.48 | 28.69 |
-| [AME](https://finviz.com/quote.ashx?t=AME&p=w) | AMETEK, Inc. | 182.22 | 19.49 | Specialty Industrial Machinery | Industrials | 18.23 | 18.44 |
-| [WCN](https://finviz.com/quote.ashx?t=WCN&p=w) | Waste Connections, Inc. | 168.01 | 19.55 | Waste Management | Industrials | 18.64 | 20.05 |
-| [GD](https://finviz.com/quote.ashx?t=GD&p=w) | General Dynamics Corporation | 295.18 | 19.57 | Aerospace & Defense | Industrials | 19.69 | 23.76 |
-| [BMO](https://finviz.com/quote.ashx?t=BMO&p=w) | Bank Of Montreal | 97.15 | 19.58 | Banks - Diversified | Financial Services | 19.82 | 22.37 |
-| [YUM](https://finviz.com/quote.ashx?t=YUM&p=w) | Yum! Brands, Inc. | 136.1 | 19.64 | Restaurants | Consumer Cyclical | 18.98 | 18.9 |
-| [NVS](https://finviz.com/quote.ashx?t=NVS&p=w) | Novartis AG | 95.79 | 19.68 | Drug Manufacturers - General | Healthcare | 18.46 | 18.83 |
-| [WMT](https://finviz.com/quote.ashx?t=WMT&p=w) | Walmart Inc. | 59.85 | 19.7 | Discount Stores | Consumer Defensive | 14.25 | 14.74 |
-| [PPL](https://finviz.com/quote.ashx?t=PPL&p=w) | PPL Corporation | 27.22 | 19.71 | Utilities - Regulated Electric | Utilities | 18.18 | 22.7 |
-| [AFL](https://finviz.com/quote.ashx?t=AFL&p=w) | Aflac Incorporated | 85.42 | 19.74 | Insurance - Life | Financial Services | 21.63 | 21.98 |
-| [PM](https://finviz.com/quote.ashx?t=PM&p=w) | Philip Morris International Inc. | 89.48 | 19.76 | Tobacco | Consumer Defensive | 19.85 | 21.13 |
-| [ORI](https://finviz.com/quote.ashx?t=ORI&p=w) | Old Republic International Corporation | 30.94 | 19.81 | Insurance - Diversified | Financial Services | 20.82 | 32.47 |
-| [CTLT](https://finviz.com/quote.ashx?t=CTLT&p=w) | Catalent, Inc. | 56.75 | 19.94 | Drug Manufacturers - Specialty & Generic | Healthcare | 30.26 | 23.46 |
-| [TMUS](https://finviz.com/quote.ashx?t=TMUS&p=w) | T-Mobile US, Inc. | 161.11 | 20.01 | Telecom Services | Communication Services | 19.92 | 19.89 |
-| [WEC](https://finviz.com/quote.ashx?t=WEC&p=w) | WEC Energy Group, Inc. | 80.28 | 20.03 | Utilities - Regulated Electric | Utilities | 21.62 | 21.43 |
-| [DTE](https://finviz.com/quote.ashx?t=DTE&p=w) | DTE Energy Company | 109.1 | 20.12 | Utilities - Regulated Electric | Utilities | 19.92 | 19.96 |
-| [ITW](https://finviz.com/quote.ashx?t=ITW&p=w) | Illinois Tool Works Inc. | 262.94 | 20.31 | Specialty Industrial Machinery | Industrials | 18.39 | 18.63 |
-| [PEG](https://finviz.com/quote.ashx?t=PEG&p=w) | Public Service Enterprise Group Incorporated | 66.52 | 20.33 | Utilities - Regulated Electric | Utilities | 18.07 | 18.07 |
-| [J](https://finviz.com/quote.ashx?t=J&p=w) | Jacobs Solutions Inc. | 147.92 | 20.38 | Engineering & Construction | Industrials | 20.87 | 20.72 |
-| [KHC](https://finviz.com/quote.ashx?t=KHC&p=w) | Kraft Heinz Company | 37.06 | 20.45 | Packaged Foods | Consumer Defensive | 21.9 | 19.82 |
-| [MRK](https://finviz.com/quote.ashx?t=MRK&p=w) | Merck & Co., Inc. | 127.99 | 20.51 | Drug Manufacturers - General | Healthcare | 19.57 | 21.86 |
-| [HON](https://finviz.com/quote.ashx?t=HON&p=w) | Honeywell International Inc. | 197.15 | 20.52 | Conglomerates | Industrials | 21.63 | 22.23 |
-| [WRB](https://finviz.com/quote.ashx?t=WRB&p=w) | W.R. Berkley Corporation | 87.26 | 20.6 | Insurance - Property & Casualty | Financial Services | 21.7 | 22.76 |
-| [AJG](https://finviz.com/quote.ashx?t=AJG&p=w) | Arthur J. Gallagher & Co. | 243.99 | 20.65 | Insurance Brokers | Financial Services | 20.72 | 20.89 |
-| [WES](https://finviz.com/quote.ashx?t=WES&p=w) | Western Midstream Partners, LP | 35.76 | 20.67 | Oil & Gas Midstream | Energy | 22.93 | 32.29 |
-| [AEP](https://finviz.com/quote.ashx?t=AEP&p=w) | American Electric Power Company, Inc. | 83.95 | 20.7 | Utilities - Regulated Electric | Utilities | 18.35 | 21.65 |
-| [MDLZ](https://finviz.com/quote.ashx?t=MDLZ&p=w) | Mondelez International, Inc. | 67.99 | 20.74 | Confectioners | Consumer Defensive | 18.96 | 20.24 |
-| [COR](https://finviz.com/quote.ashx?t=COR&p=w) | Cencora, Inc. | 243.22 | 20.76 | Medical Distribution | Healthcare | 18.57 | 20.32 |
-| [PAYX](https://finviz.com/quote.ashx?t=PAYX&p=w) | Paychex, Inc. | 122.38 | 20.85 | Staffing & Employment Services | Industrials | 17.51 | 22.51 |
-| [SEIC](https://finviz.com/quote.ashx?t=SEIC&p=w) | SEI Investments Company | 70.64 | 20.92 | Asset Management | Financial Services | 23.46 | 23.43 |
-| [LNT](https://finviz.com/quote.ashx?t=LNT&p=w) | Alliant Energy Corporation | 48.85 | 21.0 | Utilities - Regulated Electric | Utilities | 23.02 | 24.53 |
-| [PNW](https://finviz.com/quote.ashx?t=PNW&p=w) | Pinnacle West Capital Corporation | 72.76 | 21.02 | Utilities - Regulated Electric | Utilities | 16.88 | 20.63 |
-| [CNP](https://finviz.com/quote.ashx?t=CNP&p=w) | CenterPoint Energy, Inc. | 28.05 | 21.15 | Utilities - Regulated Electric | Utilities | 18.38 | None |
-| [ICE](https://finviz.com/quote.ashx?t=ICE&p=w) | Intercontinental Exchange Inc. | 137.87 | 21.17 | Financial Data & Stock Exchanges | Financial Services | 19.43 | 19.83 |
-| [O](https://finviz.com/quote.ashx?t=O&p=w) | Realty Income Corporation | 53.01 | 21.21 | REIT - Retail | Real Estate | 18.83 | 20.59 |
-| [LIN](https://finviz.com/quote.ashx?t=LIN&p=w) | Linde PLC | 464.7 | 21.21 | Specialty Chemicals | Basic Materials | 19.6 | 19.8 |
-| [V](https://finviz.com/quote.ashx?t=V&p=w) | Visa Inc. | 277.14 | 21.24 | Credit Services | Financial Services | 21.8 | 22.16 |
-| [MDU](https://finviz.com/quote.ashx?t=MDU&p=w) | MDU Resources Group, Inc. | 24.98 | 21.25 | Conglomerates | Industrials | 25.41 | 23.06 |
-| [CAG](https://finviz.com/quote.ashx?t=CAG&p=w) | Conagra Brands | 31.09 | 21.31 | Packaged Foods | Consumer Defensive | 14.77 | 29.44 |
-| [MDT](https://finviz.com/quote.ashx?t=MDT&p=w) | Medtronic PLC | 84.56 | 21.33 | Medical Devices | Healthcare | 18.75 | 19.17 |
-| [VRSK](https://finviz.com/quote.ashx?t=VRSK&p=w) | Verisk Analytics, Inc. | 227.65 | 21.37 | Consulting Services | Industrials | 20.4 | 20.98 |
-| [GIS](https://finviz.com/quote.ashx?t=GIS&p=w) | General Mills, Inc. | 69.79 | 21.38 | Packaged Foods | Consumer Defensive | 13.72 | 21.6 |
-| [T](https://finviz.com/quote.ashx?t=T&p=w) | AT&T Inc. | 17.42 | 21.43 | Telecom Services | Communication Services | 18.98 | 30.7 |
-| [GSK](https://finviz.com/quote.ashx?t=GSK&p=w) | GSK PLC Sponsored ADR | 41.19 | 21.44 | Drug Manufacturers - General | Healthcare | 22.12 | 22.23 |
-| [LMT](https://finviz.com/quote.ashx?t=LMT&p=w) | Lockheed Martin Corporation | 455.38 | 21.44 | Aerospace & Defense | Industrials | 22.65 | 21.38 |
-| [MSI](https://finviz.com/quote.ashx?t=MSI&p=w) | Motorola Solutions, Inc. | 352.3 | 21.48 | Communication Equipment | Technology | 19.82 | 20.18 |
-| [DTM](https://finviz.com/quote.ashx?t=DTM&p=w) | DT Midstream, Inc. | 62.75 | 21.48 | Oil & Gas Midstream | Energy | 21.21 | 29.98 |
-| [AVB](https://finviz.com/quote.ashx?t=AVB&p=w) | AvalonBay Communities, Inc. | 181.08 | 21.49 | REIT - Residential | Real Estate | 21.43 | 21.19 |
-| [CB](https://finviz.com/quote.ashx?t=CB&p=w) | Chubb Limited | 252.9 | 21.5 | Insurance - Property & Casualty | Financial Services | 19.01 | 19.06 |
-| [SYY](https://finviz.com/quote.ashx?t=SYY&p=w) | Sysco Corporation | 76.67 | 21.5 | Food Distribution | Consumer Defensive | 20.47 | 22.51 |
-| [CHD](https://finviz.com/quote.ashx?t=CHD&p=w) | Church & Dwight Co., Inc. | 102.0 | 21.58 | Household & Personal Products | Consumer Defensive | 20.9 | 22.16 |
-| [K](https://finviz.com/quote.ashx?t=K&p=w) | Kellanova | 57.45 | 21.62 | Packaged Foods | Consumer Defensive | 20.91 | 21.72 |
-| [TRV](https://finviz.com/quote.ashx?t=TRV&p=w) | The Travelers Companies, Inc. | 230.89 | 21.64 | Insurance - Property & Casualty | Financial Services | 23.18 | 24.03 |
-| [ADP](https://finviz.com/quote.ashx?t=ADP&p=w) | Automatic Data Processing, Inc. | 244.85 | 21.7 | Staffing & Employment Services | Industrials | 25.23 | 24.41 |
-| [SRE](https://finviz.com/quote.ashx?t=SRE&p=w) | Sempra Energy | 70.52 | 21.75 | Utilities - Diversified | Utilities | 20.39 | 22.3 |
-| [BDX](https://finviz.com/quote.ashx?t=BDX&p=w) | Becton, Dickinson and Company | 246.17 | 21.76 | Medical Instruments & Supplies | Healthcare | 20.74 | 20.99 |
-| [GGG](https://finviz.com/quote.ashx?t=GGG&p=w) | Graco Inc. | 91.76 | 21.81 | Specialty Industrial Machinery | Industrials | 23.79 | 29.6 |
-| [CCEP](https://finviz.com/quote.ashx?t=CCEP&p=w) | Coca-Cola Europacific Partners | 69.29 | 21.84 | Beverages - Non-Alcoholic | Consumer Defensive | 17.04 | 20.27 |
-| [RITM](https://finviz.com/quote.ashx?t=RITM&p=w) | Rithm Capital Corp. | 10.86 | 21.85 | REIT - Mortgage | Real Estate | 19.83 | 20.14 |
-| [MFC](https://finviz.com/quote.ashx?t=MFC&p=w) | Manulife Financial Corp | 24.39 | 21.86 | Insurance - Life | Financial Services | 20.36 | 21.05 |
-| [MSM](https://finviz.com/quote.ashx?t=MSM&p=w) | MSC Industrial Direct Company, Inc. | 95.57 | 21.93 | Industrial Distribution | Industrials | 10.65 | 25.83 |
-| [AMH](https://finviz.com/quote.ashx?t=AMH&p=w) | American Homes 4 Rent | 35.99 | 21.96 | REIT - Residential | Real Estate | 24.65 | 26.62 |
-| [CVX](https://finviz.com/quote.ashx?t=CVX&p=w) | Chevron Corporation | 161.6 | 21.98 | Oil & Gas Integrated | Energy | 21.16 | 20.83 |
-| [BUD](https://finviz.com/quote.ashx?t=BUD&p=w) | Anheuser-Busch InBev SA/NV | 59.96 | 22.0 | Beverages - Brewers | Consumer Defensive | 18.0 | 22.98 |
-| [EXC](https://finviz.com/quote.ashx?t=EXC&p=w) | Exelon Corporation | 37.34 | 22.0 | Utilities - Regulated Electric | Utilities | 18.51 | 21.1 |
-| [VZ](https://finviz.com/quote.ashx?t=VZ&p=w) | Verizon Communications Inc. | 42.12 | 22.02 | Telecom Services | Communication Services | 16.54 | 34.3 |
-| [ECL](https://finviz.com/quote.ashx?t=ECL&p=w) | Ecolab Inc. | 227.75 | 22.02 | Specialty Chemicals | Basic Materials | 19.81 | 20.14 |
-| [AZN](https://finviz.com/quote.ashx?t=AZN&p=w) | AstraZeneca PLC | 67.45 | 22.03 | Drug Manufacturers - General | Healthcare | 25.02 | 25.01 |
-| [EPRT](https://finviz.com/quote.ashx?t=EPRT&p=w) | Essential Properties Realty Trust, Inc. | 25.53 | 22.09 | REIT - Diversified | Real Estate | 25.47 | 25.25 |
-| [AON](https://finviz.com/quote.ashx?t=AON&p=w) | Aon plc | 318.99 | 22.13 | Insurance Brokers | Financial Services | 20.9 | 21.81 |
-| [KDP](https://finviz.com/quote.ashx?t=KDP&p=w) | Keurig Dr Pepper, Inc | 30.77 | 22.17 | Beverages - Non-Alcoholic | Consumer Defensive | 21.66 | 21.77 |
-| [RPM](https://finviz.com/quote.ashx?t=RPM&p=w) | RPM International Inc. | 112.91 | 22.19 | Specialty Chemicals | Basic Materials | 21.18 | 22.51 |
-| [REG](https://finviz.com/quote.ashx?t=REG&p=w) | Regency Centers Corporation | 58.8 | 22.22 | REIT - Retail | Real Estate | 32.52 | 35.05 |
+| [JNPR](https://finviz.com/quote.ashx?t=JNPR&p=w) | Juniper Networks, Inc. | 37.18 | None | Communication Equipment | Technology | 6.3 | 19.27 |
+| [EPD](https://finviz.com/quote.ashx?t=EPD&p=w) | Enterprise Products Partners L.P. | 29.26 | None | Oil & Gas Midstream | Energy | 11.39 | 23.06 |
+| [MPLX](https://finviz.com/quote.ashx?t=MPLX&p=w) | MPLX LP | 41.75 | None | Oil & Gas Midstream | Energy | 12.2 | 20.08 |
+| [AM](https://finviz.com/quote.ashx?t=AM&p=w) | Antero Midstream Corporation | 14.19 | None | Oil & Gas Midstream | Energy | 14.4 | None |
+| [KMI](https://finviz.com/quote.ashx?t=KMI&p=w) | Kinder Morgan, Inc. | 18.48 | None | Oil & Gas Midstream | Energy | 14.54 | 20.44 |
+| [ENB](https://finviz.com/quote.ashx?t=ENB&p=w) | Enbridge Inc | 35.32 | None | Oil & Gas Midstream | Energy | 15.03 | 21.62 |
+| [ET](https://finviz.com/quote.ashx?t=ET&p=w) | Energy Transfer LP | 15.72 | None | Oil & Gas Midstream | Energy | 16.31 | 25.28 |
+| [HTGC](https://finviz.com/quote.ashx?t=HTGC&p=w) | Hercules Capital, Inc. | 18.41 | None | Asset Management | Financial Services | 16.36 | 27.17 |
+| [ARR](https://finviz.com/quote.ashx?t=ARR&p=w) | ARMOUR Residential REIT, Inc. | 19.78 | None | REIT - Mortgage | Real Estate | 17.08 | 34.23 |
+| [OHI](https://finviz.com/quote.ashx?t=OHI&p=w) | Omega Healthcare Investors, Inc. | 31.86 | None | REIT - Healthcare Facilities | Real Estate | 17.2 | 28.4 |
+| [AGNC](https://finviz.com/quote.ashx?t=AGNC&p=w) | AGNC Investment Corp. | 9.78 | None | REIT - Mortgage | Real Estate | 17.74 | 52.62 |
+| [PAGP](https://finviz.com/quote.ashx?t=PAGP&p=w) | Plains Group Holdings, L.P. | 19.31 | None | Oil & Gas Midstream | Energy | 18.52 | 20.92 |
+| [MODN](https://finviz.com/quote.ashx?t=MODN&p=w) | Model N, Inc. | 29.7 | None | Software - Application | Technology | 18.67 | 29.83 |
+| [BTI](https://finviz.com/quote.ashx?t=BTI&p=w) | British American Tobacco p.l.c. | 29.85 | None | Tobacco | Consumer Defensive | 18.93 | 18.27 |
+| [MO](https://finviz.com/quote.ashx?t=MO&p=w) | Altria Group, Inc. | 42.11 | None | Tobacco | Consumer Defensive | 19.26 | 18.15 |
+| [BCE](https://finviz.com/quote.ashx?t=BCE&p=w) | BCE, Inc. | 33.17 | None | Telecom Services | Communication Services | 19.31 | 19.23 |
+| [RITM](https://finviz.com/quote.ashx?t=RITM&p=w) | Rithm Capital Corp. | 11.0 | None | REIT - Mortgage | Real Estate | 19.44 | 18.39 |
+| [MFC](https://finviz.com/quote.ashx?t=MFC&p=w) | Manulife Financial Corp | 24.66 | None | Insurance - Life | Financial Services | 19.58 | 20.55 |
+| [OGE](https://finviz.com/quote.ashx?t=OGE&p=w) | OGE Energy Corporation | 34.22 | None | Utilities - Regulated Electric | Utilities | 20.25 | 59.75 |
+| [FUSN](https://finviz.com/quote.ashx?t=FUSN&p=w) | Fusion Pharmaceuticals Inc. | 21.38 | None | Biotechnology | Healthcare | 20.91 | 20.81 |
+| [MFA](https://finviz.com/quote.ashx?t=MFA&p=w) | MFA Financial, Inc. | 11.24 | None | REIT - Mortgage | Real Estate | 20.94 | None |
+| [PAA](https://finviz.com/quote.ashx?t=PAA&p=w) | Plains All American Pipeline, L.P. | 18.53 | None | Oil & Gas Midstream | Energy | 21.19 | 33.16 |
+| [KDP](https://finviz.com/quote.ashx?t=KDP&p=w) | Keurig Dr Pepper, Inc | 31.01 | None | Beverages - Non-Alcoholic | Consumer Defensive | 21.91 | 22.19 |
+| [STWD](https://finviz.com/quote.ashx?t=STWD&p=w) | STARWOOD PROPERTY TRUST, INC. | 19.89 | None | REIT - Mortgage | Real Estate | 22.16 | 22.85 |
+| [KHC](https://finviz.com/quote.ashx?t=KHC&p=w) | Kraft Heinz Company | 37.16 | None | Packaged Foods | Consumer Defensive | 22.53 | 22.02 |
+| [NLY](https://finviz.com/quote.ashx?t=NLY&p=w) | Annaly Capital Management Inc | 19.44 | None | REIT - Mortgage | Real Estate | 22.66 | 20.03 |
+| [GBDC](https://finviz.com/quote.ashx?t=GBDC&p=w) | Golub Capital BDC, Inc. | 16.6 | None | Asset Management | Financial Services | 23.6 | 61.07 |
+| [T](https://finviz.com/quote.ashx?t=T&p=w) | AT&T Inc. | 16.9 | None | Telecom Services | Communication Services | 28.0 | 23.06 |
+| [IVZ](https://finviz.com/quote.ashx?t=IVZ&p=w) | Invesco Ltd. | 16.94 | None | Asset Management | Financial Services | 28.31 | 33.69 |
+| [UMC](https://finviz.com/quote.ashx?t=UMC&p=w) | United Microelectronics Corporation | 8.27 | None | Semiconductors | Technology | 28.75 | 44.85 |
+| [ETRN](https://finviz.com/quote.ashx?t=ETRN&p=w) | Equitrans Midstream Corporation | 12.87 | None | Oil & Gas Midstream | Energy | 29.07 | 42.88 |
+| [VOD](https://finviz.com/quote.ashx?t=VOD&p=w) | Vodafone Group PLC | 8.63 | None | Telecom Services | Communication Services | 31.12 | 31.52 |
+| [DHT](https://finviz.com/quote.ashx?t=DHT&p=w) | DHT Holdings, Inc. | 11.37 | None | Oil & Gas Midstream | Energy | 34.24 | 39.52 |
+| [BXMT](https://finviz.com/quote.ashx?t=BXMT&p=w) | Blackstone Mortgage Trust, Inc. | 19.53 | None | REIT - Mortgage | Real Estate | 34.99 | 30.28 |
+| [ORC](https://finviz.com/quote.ashx?t=ORC&p=w) | Orchid Island Capital, Inc. | 8.68 | None | REIT - Mortgage | Real Estate | 38.08 | 48.92 |
+| [AY](https://finviz.com/quote.ashx?t=AY&p=w) | Atlantica Sustainable Infrastructure PLC | 19.0 | None | Utilities - Renewable | Utilities | 38.78 | 34.47 |
+| [PFLT](https://finviz.com/quote.ashx?t=PFLT&p=w) | PennantPark Floating Rate Capital Ltd. | 11.36 | None | Asset Management | Financial Services | 40.06 | 52.75 |
+| [IRT](https://finviz.com/quote.ashx?t=IRT&p=w) | Independence Realty Trust, Inc. | 16.69 | None | REIT - Residential | Real Estate | 41.42 | 43.16 |
+| [SWN](https://finviz.com/quote.ashx?t=SWN&p=w) | Southwestern Energy Company | 7.53 | None | Oil & Gas E&P | Energy | 57.5 | 85.41 |
+| [MIR](https://finviz.com/quote.ashx?t=MIR&p=w) | Mirion Technologies, Inc. | 11.21 | None | Specialty Industrial Machinery | Industrials | 66.05 | 50.25 |
+| [IVR](https://finviz.com/quote.ashx?t=IVR&p=w) | INVESCO MORTGAGE CAPITAL INC | 9.01 | None | REIT - Mortgage | Real Estate | 68.24 | 62.3 |
+| [ECVT](https://finviz.com/quote.ashx?t=ECVT&p=w) | Ecovyst Inc. | 10.77 | None | Specialty Chemicals | Basic Materials | 76.81 | None |
+| [CTOS](https://finviz.com/quote.ashx?t=CTOS&p=w) | Custom Truck One Source, Inc. | 5.83 | None | Rental & Leasing Services | Industrials | 90.88 | None |
+| [AXNX](https://finviz.com/quote.ashx?t=AXNX&p=w) | Axonics Inc. | 67.75 | 9.53 | Medical Devices | Healthcare | 21.28 | 7.43 |
+| [FTS](https://finviz.com/quote.ashx?t=FTS&p=w) | Fortis | 39.24 | 13.39 | Utilities - Regulated Electric | Utilities | 16.29 | 25.74 |
+| [AIRC](https://finviz.com/quote.ashx?t=AIRC&p=w) | Apartment Income REIT Corp. | 38.44 | 13.46 | REIT - Residential | Real Estate | 16.24 | None |
+| [KO](https://finviz.com/quote.ashx?t=KO&p=w) | CocaCola Company (The) | 59.72 | 15.23 | Beverages - Non-Alcoholic | Consumer Defensive | 14.9 | 14.88 |
+| [PBA](https://finviz.com/quote.ashx?t=PBA&p=w) | Pembina Pipeline Corp. | 35.51 | 15.28 | Oil & Gas Midstream | Energy | 15.39 | None |
+| [UL](https://finviz.com/quote.ashx?t=UL&p=w) | Unilever PLC | 48.4 | 16.52 | Household & Personal Products | Consumer Defensive | 15.52 | None |
+| [PEP](https://finviz.com/quote.ashx?t=PEP&p=w) | PepsiCo, Inc. | 170.61 | 16.56 | Beverages - Non-Alcoholic | Consumer Defensive | 17.8 | 17.4 |
+| [PG](https://finviz.com/quote.ashx?t=PG&p=w) | Procter & Gamble Company (The) | 156.66 | 16.57 | Household & Personal Products | Consumer Defensive | 12.97 | 19.83 |
+| [RY](https://finviz.com/quote.ashx?t=RY&p=w) | Royal Bank Of Canada | 102.78 | 16.79 | Banks - Diversified | Financial Services | 15.04 | 19.12 |
+| [WCN](https://finviz.com/quote.ashx?t=WCN&p=w) | Waste Connections, Inc. | 168.36 | 16.8 | Waste Management | Industrials | 19.04 | 19.28 |
+| [GSBD](https://finviz.com/quote.ashx?t=GSBD&p=w) | Goldman Sachs BDC, Inc. | 15.04 | 16.96 | Asset Management | Financial Services | 16.57 | None |
+| [JNJ](https://finviz.com/quote.ashx?t=JNJ&p=w) | Johnson & Johnson | 152.29 | 17.06 | Drug Manufacturers - General | Healthcare | 17.68 | 17.55 |
+| [RSG](https://finviz.com/quote.ashx?t=RSG&p=w) | Republic Services, Inc. | 188.8 | 17.19 | Waste Management | Industrials | 16.05 | 16.24 |
+| [BXSL](https://finviz.com/quote.ashx?t=BXSL&p=w) | Blackstone Secured Lending Fund | 30.78 | 17.22 | Asset Management | Financial Services | 19.94 | None |
+| [CL](https://finviz.com/quote.ashx?t=CL&p=w) | Colgate-Palmolive Company | 87.65 | 17.29 | Household & Personal Products | Consumer Defensive | 16.27 | 22.69 |
+| [ATO](https://finviz.com/quote.ashx?t=ATO&p=w) | Atmos Energy Corporation | 116.64 | 17.36 | Utilities - Regulated Gas | Utilities | 16.57 | 18.44 |
+| [L](https://finviz.com/quote.ashx?t=L&p=w) | Loews Corporation | 75.19 | 17.4 | Insurance - Property & Casualty | Financial Services | 17.27 | 17.79 |
+| [MCD](https://finviz.com/quote.ashx?t=MCD&p=w) | McDonald's Corporation | 269.44 | 17.7 | Restaurants | Consumer Cyclical | 18.71 | 18.13 |
+| [ED](https://finviz.com/quote.ashx?t=ED&p=w) | Consolidated Edison Inc | 91.13 | 17.71 | Utilities - Regulated Electric | Utilities | 16.58 | 21.03 |
+| [DUK](https://finviz.com/quote.ashx?t=DUK&p=w) | Duke Energy Corporation | 97.32 | 17.87 | Utilities - Regulated Electric | Utilities | 15.78 | 20.21 |
+| [KMB](https://finviz.com/quote.ashx?t=KMB&p=w) | Kimberly-Clark Corporation | 127.94 | 17.88 | Household & Personal Products | Consumer Defensive | 19.43 | 19.31 |
+| [BRK.B](https://finviz.com/quote.ashx?t=BRK.B&p=w) | Berkshire Hathaway Inc. | 414.69 | 17.89 | Insurance - Diversified | Financial Services | 16.24 | 15.72 |
+| [BNS](https://finviz.com/quote.ashx?t=BNS&p=w) | Bank of Nova Scotia (The) | 50.46 | 17.91 | Banks - Diversified | Financial Services | 18.3 | 19.59 |
+| [ETR](https://finviz.com/quote.ashx?t=ETR&p=w) | Entergy Corporation | 106.32 | 18.18 | Utilities - Regulated Electric | Utilities | 16.31 | None |
+| [CM](https://finviz.com/quote.ashx?t=CM&p=w) | Canadian Imperial Bank of Commerce | 50.21 | 18.25 | Banks - Diversified | Financial Services | 18.12 | 18.46 |
+| [WM](https://finviz.com/quote.ashx?t=WM&p=w) | Waste Management, Inc. | 206.48 | 18.26 | Waste Management | Industrials | 21.66 | 21.18 |
+| [SO](https://finviz.com/quote.ashx?t=SO&p=w) | Southern Company (The) | 70.59 | 18.31 | Utilities - Regulated Electric | Utilities | 20.13 | 23.26 |
+| [TD](https://finviz.com/quote.ashx?t=TD&p=w) | Toronto Dominion Bank (The) | 59.07 | 18.4 | Banks - Diversified | Financial Services | 18.56 | 18.53 |
+| [AEE](https://finviz.com/quote.ashx?t=AEE&p=w) | Ameren Corporation | 73.99 | 18.43 | Utilities - Regulated Electric | Utilities | 22.96 | 20.18 |
+| [CTLT](https://finviz.com/quote.ashx?t=CTLT&p=w) | Catalent, Inc. | 57.01 | 18.47 | Drug Manufacturers - Specialty & Generic | Healthcare | 28.1 | 28.37 |
+| [PM](https://finviz.com/quote.ashx?t=PM&p=w) | Philip Morris International Inc. | 91.07 | 18.69 | Tobacco | Consumer Defensive | 23.19 | 20.44 |
+| [MMC](https://finviz.com/quote.ashx?t=MMC&p=w) | Marsh & McLennan Companies, Inc. | 204.33 | 18.9 | Insurance Brokers | Financial Services | 22.04 | 22.2 |
+| [FE](https://finviz.com/quote.ashx?t=FE&p=w) | FirstEnergy Corporation | 38.47 | 19.04 | Utilities - Regulated Electric | Utilities | 15.91 | 21.24 |
+| [WEC](https://finviz.com/quote.ashx?t=WEC&p=w) | WEC Energy Group, Inc. | 81.91 | 19.07 | Utilities - Regulated Electric | Utilities | 17.96 | 21.3 |
+| [CNI](https://finviz.com/quote.ashx?t=CNI&p=w) | Canadian National Railway Company | 130.99 | 19.14 | Railroads | Industrials | 19.02 | 18.88 |
+| [YUM](https://finviz.com/quote.ashx?t=YUM&p=w) | Yum! Brands, Inc. | 137.02 | 19.2 | Restaurants | Consumer Cyclical | 19.17 | 17.96 |
+| [EVRG](https://finviz.com/quote.ashx?t=EVRG&p=w) | Evergy Inc. | 52.97 | 19.2 | Utilities - Regulated Electric | Utilities | 23.51 | 22.98 |
+| [NVS](https://finviz.com/quote.ashx?t=NVS&p=w) | Novartis AG | 95.81 | 19.3 | Drug Manufacturers - General | Healthcare | 18.3 | 18.24 |
+| [PEG](https://finviz.com/quote.ashx?t=PEG&p=w) | Public Service Enterprise Group Incorporated | 67.2 | 19.35 | Utilities - Regulated Electric | Utilities | 17.62 | 18.31 |
+| [TRP](https://finviz.com/quote.ashx?t=TRP&p=w) | TC Energy Corporation | 38.34 | 19.35 | Oil & Gas Midstream | Energy | 20.08 | None |
+| [WMT](https://finviz.com/quote.ashx?t=WMT&p=w) | Walmart Inc. | 59.79 | 19.37 | Discount Stores | Consumer Defensive | 13.78 | 14.75 |
+| [AEP](https://finviz.com/quote.ashx?t=AEP&p=w) | American Electric Power Company, Inc. | 85.08 | 19.45 | Utilities - Regulated Electric | Utilities | 18.33 | 21.66 |
+| [GSK](https://finviz.com/quote.ashx?t=GSK&p=w) | GSK PLC Sponsored ADR | 40.88 | 19.49 | Drug Manufacturers - General | Healthcare | 22.65 | 23.34 |
+| [GD](https://finviz.com/quote.ashx?t=GD&p=w) | General Dynamics Corporation | 288.84 | 19.5 | Aerospace & Defense | Industrials | 17.75 | 22.51 |
+| [AME](https://finviz.com/quote.ashx?t=AME&p=w) | AMETEK, Inc. | 181.18 | 19.51 | Specialty Industrial Machinery | Industrials | 18.33 | 18.61 |
+| [PPL](https://finviz.com/quote.ashx?t=PPL&p=w) | PPL Corporation | 27.53 | 19.54 | Utilities - Regulated Electric | Utilities | 17.01 | 17.37 |
+| [TMUS](https://finviz.com/quote.ashx?t=TMUS&p=w) | T-Mobile US, Inc. | 161.0 | 19.6 | Telecom Services | Communication Services | 18.96 | 19.47 |
+| [YOU](https://finviz.com/quote.ashx?t=YOU&p=w) | CLEAR Secure, Inc. | 20.16 | 19.68 | Software - Application | Technology | 31.86 | 33.72 |
+| [GLPI](https://finviz.com/quote.ashx?t=GLPI&p=w) | Gaming and Leisure Properties, Inc. | 45.99 | 19.76 | REIT - Specialty | Real Estate | 20.05 | None |
+| [OTIS](https://finviz.com/quote.ashx?t=OTIS&p=w) | Otis Worldwide Corporation | 99.12 | 19.94 | Specialty Industrial Machinery | Industrials | 18.65 | 19.13 |
+| [DOX](https://finviz.com/quote.ashx?t=DOX&p=w) | Amdocs Limited | 88.59 | 19.96 | Software - Infrastructure | Technology | 26.01 | 27.93 |
+| [CCEP](https://finviz.com/quote.ashx?t=CCEP&p=w) | Coca-Cola Europacific Partners | 68.5 | 20.0 | Beverages - Non-Alcoholic | Consumer Defensive | 21.28 | 23.97 |
+| [ITW](https://finviz.com/quote.ashx?t=ITW&p=w) | Illinois Tool Works Inc. | 262.58 | 20.07 | Specialty Industrial Machinery | Industrials | 19.42 | 19.52 |
+| [EIX](https://finviz.com/quote.ashx?t=EIX&p=w) | Edison International | 70.89 | 20.08 | Utilities - Regulated Electric | Utilities | 21.03 | 21.76 |
+| [WES](https://finviz.com/quote.ashx?t=WES&p=w) | Western Midstream Partners, LP | 35.49 | 20.17 | Oil & Gas Midstream | Energy | 19.08 | 20.48 |
+| [PNW](https://finviz.com/quote.ashx?t=PNW&p=w) | Pinnacle West Capital Corporation | 74.62 | 20.21 | Utilities - Regulated Electric | Utilities | 18.31 | 24.44 |
+| [LMT](https://finviz.com/quote.ashx?t=LMT&p=w) | Lockheed Martin Corporation | 447.57 | 20.26 | Aerospace & Defense | Industrials | 20.9 | 20.62 |
+| [HON](https://finviz.com/quote.ashx?t=HON&p=w) | Honeywell International Inc. | 198.41 | 20.35 | Conglomerates | Industrials | 22.05 | 22.06 |
+| [MRK](https://finviz.com/quote.ashx?t=MRK&p=w) | Merck & Co., Inc. | 126.71 | 20.41 | Drug Manufacturers - General | Healthcare | 21.44 | 22.03 |
+| [SEIC](https://finviz.com/quote.ashx?t=SEIC&p=w) | SEI Investments Company | 70.9 | 20.43 | Asset Management | Financial Services | 22.96 | 22.99 |
+| [O](https://finviz.com/quote.ashx?t=O&p=w) | Realty Income Corporation | 54.38 | 20.5 | REIT - Retail | Real Estate | 16.79 | 20.44 |
+| [MDLZ](https://finviz.com/quote.ashx?t=MDLZ&p=w) | Mondelez International, Inc. | 67.86 | 20.5 | Confectioners | Consumer Defensive | 23.58 | 20.24 |
+| [DTE](https://finviz.com/quote.ashx?t=DTE&p=w) | DTE Energy Company | 109.87 | 20.61 | Utilities - Regulated Electric | Utilities | 18.98 | 19.34 |
+| [TRV](https://finviz.com/quote.ashx?t=TRV&p=w) | The Travelers Companies, Inc. | 223.84 | 20.63 | Insurance - Property & Casualty | Financial Services | 24.58 | 25.01 |
+| [J](https://finviz.com/quote.ashx?t=J&p=w) | Jacobs Solutions Inc. | 146.72 | 20.64 | Engineering & Construction | Industrials | 21.13 | 20.37 |
+| [AJG](https://finviz.com/quote.ashx?t=AJG&p=w) | Arthur J. Gallagher & Co. | 244.13 | 20.65 | Insurance Brokers | Financial Services | 20.61 | 20.82 |
+| [HIG](https://finviz.com/quote.ashx?t=HIG&p=w) | The Hartford Financial Services Group, Inc. | 98.87 | 20.7 | Insurance - Diversified | Financial Services | 22.5 | 22.78 |
+| [CNP](https://finviz.com/quote.ashx?t=CNP&p=w) | CenterPoint Energy, Inc. | 28.28 | 20.76 | Utilities - Regulated Electric | Utilities | 18.21 | None |
+| [V](https://finviz.com/quote.ashx?t=V&p=w) | Visa Inc. | 276.72 | 20.76 | Credit Services | Financial Services | 21.12 | 23.86 |
+| [WRB](https://finviz.com/quote.ashx?t=WRB&p=w) | W.R. Berkley Corporation | 83.74 | 20.78 | Insurance - Property & Casualty | Financial Services | 23.01 | 25.59 |
+| [CB](https://finviz.com/quote.ashx?t=CB&p=w) | Chubb Limited | 248.03 | 20.79 | Insurance - Property & Casualty | Financial Services | 20.9 | 21.0 |
+| [LIN](https://finviz.com/quote.ashx?t=LIN&p=w) | Linde PLC | 457.94 | 20.85 | Specialty Chemicals | Basic Materials | 19.71 | 19.55 |
+| [MDT](https://finviz.com/quote.ashx?t=MDT&p=w) | Medtronic PLC | 83.8 | 20.88 | Medical Devices | Healthcare | 16.43 | 17.37 |
+| [SYY](https://finviz.com/quote.ashx?t=SYY&p=w) | Sysco Corporation | 77.51 | 20.88 | Food Distribution | Consumer Defensive | 20.86 | 20.75 |
+| [PAYX](https://finviz.com/quote.ashx?t=PAYX&p=w) | Paychex, Inc. | 126.59 | 20.89 | Staffing & Employment Services | Industrials | 17.19 | 20.83 |
+| [COR](https://finviz.com/quote.ashx?t=COR&p=w) | Cencora, Inc. | 238.57 | 20.89 | Medical Distribution | Healthcare | 20.18 | 21.12 |
+| [ES](https://finviz.com/quote.ashx?t=ES&p=w) | Eversource Energy | 59.96 | 20.96 | Utilities - Regulated Electric | Utilities | 27.09 | 31.09 |
+| [CHD](https://finviz.com/quote.ashx?t=CHD&p=w) | Church & Dwight Co., Inc. | 101.89 | 21.06 | Household & Personal Products | Consumer Defensive | 20.55 | 21.66 |
+| [MSI](https://finviz.com/quote.ashx?t=MSI&p=w) | Motorola Solutions, Inc. | 352.96 | 21.07 | Communication Equipment | Technology | 21.54 | 20.96 |
+| [AFL](https://finviz.com/quote.ashx?t=AFL&p=w) | Aflac Incorporated | 83.17 | 21.08 | Insurance - Life | Financial Services | 19.15 | 19.94 |
+| [ADP](https://finviz.com/quote.ashx?t=ADP&p=w) | Automatic Data Processing, Inc. | 250.01 | 21.16 | Staffing & Employment Services | Industrials | 26.02 | 22.52 |
+| [RELX](https://finviz.com/quote.ashx?t=RELX&p=w) | RELX PLC | 42.23 | 21.22 | Specialty Business Services | Industrials | 27.3 | None |
+| [SNY](https://finviz.com/quote.ashx?t=SNY&p=w) | Sanofi | 47.53 | 21.26 | Drug Manufacturers - General | Healthcare | 20.02 | None |
+| [WTRG](https://finviz.com/quote.ashx?t=WTRG&p=w) | Essential Utilities Inc. | 36.71 | 21.28 | Utilities - Regulated Water | Utilities | 23.05 | 29.38 |
+| [TEL](https://finviz.com/quote.ashx?t=TEL&p=w) | TE Connectivity Ltd. | 147.87 | 21.29 | Electronic Components | Technology | 22.52 | 23.1 |
+| [CAG](https://finviz.com/quote.ashx?t=CAG&p=w) | Conagra Brands | 31.28 | 21.3 | Packaged Foods | Consumer Defensive | 8.06 | 20.79 |
+| [AVB](https://finviz.com/quote.ashx?t=AVB&p=w) | AvalonBay Communities, Inc. | 188.86 | 21.31 | REIT - Residential | Real Estate | 21.09 | 20.77 |
+| [EXC](https://finviz.com/quote.ashx?t=EXC&p=w) | Exelon Corporation | 37.87 | 21.33 | Utilities - Regulated Electric | Utilities | 17.81 | 21.87 |
+| [TAK](https://finviz.com/quote.ashx?t=TAK&p=w) | Takeda Pharmaceutical Co. | 13.65 | 21.33 | Drug Manufacturers - Specialty & Generic | Healthcare | 30.33 | None |
+| [LHX](https://finviz.com/quote.ashx?t=LHX&p=w) | L3Harris Technologies Inc | 206.15 | 21.43 | Aerospace & Defense | Industrials | 23.31 | 22.44 |
+| [AMH](https://finviz.com/quote.ashx?t=AMH&p=w) | American Homes 4 Rent | 36.56 | 21.45 | REIT - Residential | Real Estate | 26.69 | 27.71 |
+| [FLO](https://finviz.com/quote.ashx?t=FLO&p=w) | Flowers Foods, Inc. | 23.15 | 21.46 | Packaged Foods | Consumer Defensive | 21.84 | 25.15 |
+| [VZ](https://finviz.com/quote.ashx?t=VZ&p=w) | Verizon Communications Inc. | 40.84 | 21.49 | Telecom Services | Communication Services | 25.65 | 21.16 |
+| [ECL](https://finviz.com/quote.ashx?t=ECL&p=w) | Ecolab Inc. | 225.79 | 21.5 | Specialty Chemicals | Basic Materials | 21.96 | 22.11 |
+| [BUD](https://finviz.com/quote.ashx?t=BUD&p=w) | Anheuser-Busch InBev SA/NV | 60.6 | 21.51 | Beverages - Brewers | Consumer Defensive | 17.59 | 28.22 |
+| [ICE](https://finviz.com/quote.ashx?t=ICE&p=w) | Intercontinental Exchange Inc. | 135.06 | 21.53 | Financial Data & Stock Exchanges | Financial Services | 21.66 | 19.88 |
+| [CVX](https://finviz.com/quote.ashx?t=CVX&p=w) | Chevron Corporation | 162.0 | 21.54 | Oil & Gas Integrated | Energy | 20.57 | 20.23 |
+| [EPR](https://finviz.com/quote.ashx?t=EPR&p=w) | EPR Properties | 42.43 | 21.55 | REIT - Specialty | Real Estate | 25.25 | 26.34 |
+| [STZ](https://finviz.com/quote.ashx?t=STZ&p=w) | Constellation Brands Inc | 262.97 | 21.64 | Beverages - Wineries & Distilleries | Consumer Defensive | 21.31 | 23.6 |
+| [MAA](https://finviz.com/quote.ashx?t=MAA&p=w) | Mid-America Apartment Communities, Inc. | 135.38 | 21.65 | REIT - Residential | Real Estate | 20.25 | 24.75 |
+| [BDX](https://finviz.com/quote.ashx?t=BDX&p=w) | Becton, Dickinson and Company | 245.81 | 21.68 | Medical Instruments & Supplies | Healthcare | 22.5 | 21.91 |
+| [DOV](https://finviz.com/quote.ashx?t=DOV&p=w) | Dover Corporation | 177.35 | 21.72 | Specialty Industrial Machinery | Industrials | 20.78 | 21.29 |
+| [ADC](https://finviz.com/quote.ashx?t=ADC&p=w) | Agree Realty Corporation | 58.45 | 21.74 | REIT - Retail | Real Estate | 24.17 | 25.69 |
+| [NOC](https://finviz.com/quote.ashx?t=NOC&p=w) | Northrop Grumman Corporation | 454.66 | 21.79 | Aerospace & Defense | Industrials | 23.25 | 23.17 |
+| [ABBV](https://finviz.com/quote.ashx?t=ABBV&p=w) | AbbVie Inc. | 170.14 | 21.88 | Drug Manufacturers - General | Healthcare | 22.01 | 29.34 |
+| [MDU](https://finviz.com/quote.ashx?t=MDU&p=w) | MDU Resources Group, Inc. | 25.07 | 21.92 | Conglomerates | Industrials | 25.14 | None |
+| [AXS](https://finviz.com/quote.ashx?t=AXS&p=w) | Axis Capital Holdings Limited | 63.62 | 21.94 | Insurance - Specialty | Financial Services | 22.02 | 23.9 |
 
