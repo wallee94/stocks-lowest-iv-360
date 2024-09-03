@@ -4,7 +4,7 @@ List of stock tickers with the lowest mean implied volatility over 360 days. If 
 
 Includes only stocks (non-funds) with average daily volume > 500,000.
 
-## Data (updated on 2024-09-02)
+## Data (updated on 2024-09-03)
 
 | Ticker | Security Name | Closing Price | 360-Day Mean IV | Industry | Sector | 30-Day Call IV | 30-Day Put IV |
 |-----|-----|-----|-----|-----|-----|-----|-----|
@@ -38,6 +38,7 @@ Includes only stocks (non-funds) with average daily volume > 500,000.
 | [GES](https://finviz.com/quote.ashx?t=GES&p=w) | Guess?, Inc. | 20.72 | None | Apparel Retail | Consumer Cyclical | 34.29 | 33.83 |
 | [VRN](https://finviz.com/quote.ashx?t=VRN&p=w) | Veren Inc. | 7.23 | None | Oil & Gas E&P | Energy | 35.98 | 38.75 |
 | [AQN](https://finviz.com/quote.ashx?t=AQN&p=w) | Algonquin Power & Utilities Corp. | 5.41 | None | Utilities - Renewable | Utilities | 40.06 | None |
+| [GAP](https://finviz.com/quote.ashx?t=GAP&p=w) | The Gap, Inc. | 22.43 | None | Apparel Retail | Consumer Cyclical | 46.79 | 48.92 |
 | [LEG](https://finviz.com/quote.ashx?t=LEG&p=w) | Leggett & Platt, Incorporated | 12.64 | None | Furnishings Fixtures & Appliances | Consumer Cyclical | 52.31 | None |
 | [DO](https://finviz.com/quote.ashx?t=DO&p=w) | Diamond Offshore Drilling, Inc. | 14.34 | None | Oil & Gas Drilling | Energy | 57.54 | 57.99 |
 | [PETQ](https://finviz.com/quote.ashx?t=PETQ&p=w) | PetIQ, Inc. | 30.55 | None | Drug Manufacturers - Specialty & Generic | Healthcare | 64.64 | 12.4 |
