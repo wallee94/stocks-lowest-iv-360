@@ -2,1801 +2,1801 @@
     {
         "Ticker": "JNPR",
         "Security Name": "Juniper Networks, Inc.",
-        "Closing Price": 39.0,
-        "Volume": 5162670,
+        "Closing Price": 38.98,
+        "Volume": 3283200,
         "360-Day Mean IV": null,
         "Industry": "Communication Equipment",
         "Sector": "Technology",
         "30-Day Call IV": 8.55,
         "30-Day Put IV": 27.42,
-        "Market Cap": 12837375642
+        "Market Cap": 12830792372
     },
     {
         "Ticker": "HCP",
         "Security Name": "HashiCorp, Inc.",
-        "Closing Price": 33.92,
-        "Volume": 1189276,
+        "Closing Price": 33.83,
+        "Volume": 1010971,
         "360-Day Mean IV": null,
         "Industry": "Software - Infrastructure",
         "Sector": "Technology",
         "30-Day Call IV": 10.16,
         "30-Day Put IV": 49.08,
-        "Market Cap": 6819393383
+        "Market Cap": 6801299473
     },
     {
         "Ticker": "B",
         "Security Name": "Barnes Group, Inc.",
-        "Closing Price": 46.75,
-        "Volume": 590992,
+        "Closing Price": 46.74,
+        "Volume": 620489,
         "360-Day Mean IV": null,
         "Industry": "Specialty Industrial Machinery",
         "Sector": "Industrials",
         "30-Day Call IV": 12.15,
         "30-Day Put IV": 17.87,
-        "Market Cap": 2373320037
+        "Market Cap": 2372812374
     },
     {
         "Ticker": "K",
         "Security Name": "Kellanova",
-        "Closing Price": 80.61,
-        "Volume": 3730574,
+        "Closing Price": 80.6,
+        "Volume": 1762344,
         "360-Day Mean IV": null,
         "Industry": "Packaged Foods",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 18.42,
         "30-Day Put IV": 13.58,
-        "Market Cap": 27591819154
+        "Market Cap": 27588396276
     },
     {
         "Ticker": "EDR",
         "Security Name": "Endeavor Group Holdings, Inc.",
-        "Closing Price": 29.49,
-        "Volume": 977889,
+        "Closing Price": 28.99,
+        "Volume": 1339014,
         "360-Day Mean IV": null,
         "Industry": "Entertainment",
         "Sector": "Communication Services",
         "30-Day Call IV": 19.05,
         "30-Day Put IV": 38.58,
-        "Market Cap": 8919578664
+        "Market Cap": 8768348100
     },
     {
         "Ticker": "VZIO",
         "Security Name": "VIZIO Holding Corp.",
-        "Closing Price": 11.15,
-        "Volume": 2198720,
+        "Closing Price": 11.16,
+        "Volume": 3283153,
         "360-Day Mean IV": null,
         "Industry": "Consumer Electronics",
         "Sector": "Technology",
         "30-Day Call IV": 22.19,
         "30-Day Put IV": 57.15,
-        "Market Cap": 2211121756
+        "Market Cap": 2213104825
     },
     {
         "Ticker": "AM",
         "Security Name": "Antero Midstream Corporation",
-        "Closing Price": 14.38,
-        "Volume": 2972544,
+        "Closing Price": 14.44,
+        "Volume": 1980510,
         "360-Day Mean IV": null,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 23.75,
         "30-Day Put IV": 22.62,
-        "Market Cap": 6920533180
+        "Market Cap": 6949408840
     },
     {
         "Ticker": "GBDC",
         "Security Name": "Golub Capital BDC, Inc.",
-        "Closing Price": 15.08,
-        "Volume": 1294381,
+        "Closing Price": 14.93,
+        "Volume": 1010281,
         "360-Day Mean IV": null,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 25.01,
         "30-Day Put IV": null,
-        "Market Cap": 2586480989
+        "Market Cap": 2560753393
     },
     {
         "Ticker": "FSK",
         "Security Name": "FS KKR Capital Corp.",
-        "Closing Price": 20.14,
-        "Volume": 1239750,
+        "Closing Price": 20.04,
+        "Volume": 1140763,
         "360-Day Mean IV": null,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 26.33,
         "30-Day Put IV": 20.06,
-        "Market Cap": 5640537960
+        "Market Cap": 5612531317
     },
     {
         "Ticker": "MMM",
         "Security Name": "3M Company",
-        "Closing Price": 127.22,
-        "Volume": 2830410,
+        "Closing Price": 125.85,
+        "Volume": 3640124,
         "360-Day Mean IV": null,
         "Industry": "Conglomerates",
         "Sector": "Industrials",
         "30-Day Call IV": 26.73,
         "30-Day Put IV": 24.0,
-        "Market Cap": 69888767663
+        "Market Cap": 69136153202
     },
     {
         "Ticker": "DOC",
         "Security Name": "Healthpeak Properties, Inc.",
-        "Closing Price": 21.98,
-        "Volume": 5938633,
+        "Closing Price": 21.99,
+        "Volume": 4245301,
         "360-Day Mean IV": null,
         "Industry": "REIT - Healthcare Facilities",
         "Sector": "Real Estate",
         "30-Day Call IV": 28.9,
         "30-Day Put IV": 34.69,
-        "Market Cap": 15370425279
+        "Market Cap": 15377418193
     },
     {
         "Ticker": "GE",
         "Security Name": "GE Aerospace",
-        "Closing Price": 171.7,
-        "Volume": 3969021,
+        "Closing Price": 171.76,
+        "Volume": 4177962,
         "360-Day Mean IV": null,
         "Industry": "Specialty Industrial Machinery",
         "Sector": "Industrials",
         "30-Day Call IV": 28.96,
         "30-Day Put IV": 29.52,
-        "Market Cap": 186176201447
+        "Market Cap": 186241260108
     },
     {
         "Ticker": "BXMT",
         "Security Name": "Blackstone Mortgage Trust, Inc.",
-        "Closing Price": 18.25,
-        "Volume": 1469360,
+        "Closing Price": 18.38,
+        "Volume": 1253199,
         "360-Day Mean IV": null,
         "Industry": "REIT - Mortgage",
         "Sector": "Real Estate",
         "30-Day Call IV": 30.46,
         "30-Day Put IV": 30.34,
-        "Market Cap": 3168582885
+        "Market Cap": 3191153612
     },
     {
         "Ticker": "RITM",
         "Security Name": "Rithm Capital Corp.",
-        "Closing Price": 10.48,
-        "Volume": 6667525,
+        "Closing Price": 10.41,
+        "Volume": 5079424,
         "360-Day Mean IV": null,
         "Industry": "REIT - Mortgage",
         "Sector": "Real Estate",
         "30-Day Call IV": 31.01,
         "30-Day Put IV": 23.81,
-        "Market Cap": 5066846432
+        "Market Cap": 5033002992
     },
     {
         "Ticker": "DX",
         "Security Name": "Dynex Capital, Inc.",
-        "Closing Price": 12.13,
-        "Volume": 2584850,
+        "Closing Price": 12.21,
+        "Volume": 2065345,
         "360-Day Mean IV": null,
         "Industry": "REIT - Mortgage",
         "Sector": "Real Estate",
         "30-Day Call IV": 31.15,
         "30-Day Put IV": 25.78,
-        "Market Cap": 906205322
+        "Market Cap": 912181944
     },
     {
         "Ticker": "ARR",
         "Security Name": "ARMOUR Residential REIT, Inc.",
-        "Closing Price": 18.59,
-        "Volume": 2110365,
+        "Closing Price": 18.62,
+        "Volume": 1530226,
         "360-Day Mean IV": null,
         "Industry": "REIT - Mortgage",
         "Sector": "Real Estate",
         "30-Day Call IV": 35.0,
         "30-Day Put IV": null,
-        "Market Cap": 906551927
+        "Market Cap": 908014894
     },
     {
         "Ticker": "NMFC",
         "Security Name": "New Mountain Finance Corporation",
-        "Closing Price": 11.1,
-        "Volume": 901060,
+        "Closing Price": 10.8,
+        "Volume": 1548337,
         "360-Day Mean IV": null,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 36.14,
         "30-Day Put IV": null,
-        "Market Cap": 1197150706
+        "Market Cap": 1164795282
     },
     {
         "Ticker": "IVR",
         "Security Name": "INVESCO MORTGAGE CAPITAL INC",
-        "Closing Price": 8.06,
-        "Volume": 1012517,
+        "Closing Price": 8.07,
+        "Volume": 718502,
         "360-Day Mean IV": null,
         "Industry": "REIT - Mortgage",
         "Sector": "Real Estate",
         "30-Day Call IV": 37.87,
         "30-Day Put IV": 35.66,
-        "Market Cap": 393534287
+        "Market Cap": 394022543
     },
     {
         "Ticker": "CRGY",
         "Security Name": "Crescent Energy Company",
-        "Closing Price": 12.26,
-        "Volume": 1982298,
+        "Closing Price": 12.53,
+        "Volume": 2414095,
         "360-Day Mean IV": null,
         "Industry": "Oil & Gas E&P",
         "Sector": "Energy",
         "30-Day Call IV": 42.2,
         "30-Day Put IV": 48.38,
-        "Market Cap": 2175717528
+        "Market Cap": 2223633004
     },
     {
         "Ticker": "GNL",
         "Security Name": "Global Net Lease, Inc.",
-        "Closing Price": 7.63,
-        "Volume": 1605138,
+        "Closing Price": 7.66,
+        "Volume": 939051,
         "360-Day Mean IV": null,
         "Industry": "REIT - Diversified",
         "Sector": "Real Estate",
         "30-Day Call IV": 43.47,
         "30-Day Put IV": 35.28,
-        "Market Cap": 1757828058
+        "Market Cap": 1764739570
     },
     {
         "Ticker": "AMD",
         "Security Name": "Advanced Micro Devices, Inc.",
-        "Closing Price": 141.86,
-        "Volume": 38449084,
+        "Closing Price": 140.71,
+        "Volume": 28514104,
         "360-Day Mean IV": null,
         "Industry": "Semiconductors",
         "Sector": "Technology",
         "30-Day Call IV": 43.72,
         "30-Day Put IV": 43.55,
-        "Market Cap": 229597834531
+        "Market Cap": 227736580409
     },
     {
         "Ticker": "SWI",
         "Security Name": "SolarWinds",
-        "Closing Price": 13.16,
-        "Volume": 2056339,
+        "Closing Price": 13.12,
+        "Volume": 841210,
         "360-Day Mean IV": null,
         "Industry": "Software - Infrastructure",
         "Sector": "Technology",
         "30-Day Call IV": 46.65,
         "30-Day Put IV": null,
-        "Market Cap": 2213405654
+        "Market Cap": 2206677977
     },
     {
         "Ticker": "TU",
         "Security Name": "TELUS Corporation",
-        "Closing Price": 15.69,
-        "Volume": 2094321,
+        "Closing Price": 15.71,
+        "Volume": 5128746,
         "360-Day Mean IV": null,
         "Industry": "Telecom Services",
         "Sector": "Communication Services",
         "30-Day Call IV": 49.4,
         "30-Day Put IV": null,
-        "Market Cap": 23158440000
+        "Market Cap": 23187960000
     },
     {
         "Ticker": "REVG",
         "Security Name": "REV Group, Inc.",
-        "Closing Price": 26.35,
-        "Volume": 662700,
+        "Closing Price": 27.03,
+        "Volume": 483808,
         "360-Day Mean IV": null,
         "Industry": "Farm & Heavy Construction Machinery",
         "Sector": "Industrials",
         "30-Day Call IV": 51.4,
         "30-Day Put IV": null,
-        "Market Cap": 1367946468
+        "Market Cap": 1403248313
     },
     {
         "Ticker": "PK",
         "Security Name": "Park Hotels & Resorts Inc.",
-        "Closing Price": 13.84,
-        "Volume": 2798000,
+        "Closing Price": 14.15,
+        "Volume": 5618662,
         "360-Day Mean IV": null,
         "Industry": "REIT - Hotel & Motel",
         "Sector": "Real Estate",
         "30-Day Call IV": 51.72,
         "30-Day Put IV": null,
-        "Market Cap": 2891414823
+        "Market Cap": 2956179172
     },
     {
         "Ticker": "TCPC",
         "Security Name": "BLACKROCK TCP CAPITAL CORP.",
-        "Closing Price": 8.0,
-        "Volume": 408856,
+        "Closing Price": 7.81,
+        "Volume": 800773,
         "360-Day Mean IV": null,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 52.3,
         "30-Day Put IV": null,
-        "Market Cap": 684729072
+        "Market Cap": 668466756
     },
     {
         "Ticker": "PTEN",
         "Security Name": "Patterson-UTI Energy, Inc.",
-        "Closing Price": 7.42,
-        "Volume": 9450177,
+        "Closing Price": 7.61,
+        "Volume": 10975896,
         "360-Day Mean IV": null,
         "Industry": "Oil & Gas Drilling",
         "Sector": "Energy",
         "30-Day Call IV": 54.44,
         "30-Day Put IV": 55.85,
-        "Market Cap": 2916429553
+        "Market Cap": 2991109016
     },
     {
         "Ticker": "ALTM",
         "Security Name": "Arcadium Lithium PLC",
-        "Closing Price": 5.44,
-        "Volume": 12521900,
+        "Closing Price": 5.43,
+        "Volume": 12085825,
         "360-Day Mean IV": null,
         "Industry": "Specialty Chemicals",
         "Sector": "Basic Materials",
         "30-Day Call IV": 59.42,
         "30-Day Put IV": null,
-        "Market Cap": 5849042548
+        "Market Cap": 5838290632
+    },
+    {
+        "Ticker": "OCSL",
+        "Security Name": "Oaktree Specialty Lending Corp.",
+        "Closing Price": 15.59,
+        "Volume": 1028824,
+        "360-Day Mean IV": null,
+        "Industry": "Credit Services",
+        "Sector": "Financial Services",
+        "30-Day Call IV": 59.96,
+        "30-Day Put IV": 39.56,
+        "Market Cap": 1268962922
     },
     {
         "Ticker": "RCM",
         "Security Name": "R1 RCM Inc.",
-        "Closing Price": 14.26,
-        "Volume": 1169839,
+        "Closing Price": 14.28,
+        "Volume": 1997674,
         "360-Day Mean IV": null,
         "Industry": "Health Information Services",
         "Sector": "Healthcare",
         "30-Day Call IV": 60.68,
         "30-Day Put IV": 45.83,
-        "Market Cap": 6007099579
+        "Market Cap": 6015524684
     },
     {
         "Ticker": "KREF",
         "Security Name": "KKR Real Estate Finance Trust",
-        "Closing Price": 11.6,
-        "Volume": 835957,
+        "Closing Price": 11.9,
+        "Volume": 651279,
         "360-Day Mean IV": null,
         "Industry": "REIT - Mortgage",
         "Sector": "Real Estate",
         "30-Day Call IV": 61.79,
         "30-Day Put IV": null,
-        "Market Cap": 804265212
+        "Market Cap": 825065175
     },
     {
         "Ticker": "TRIN",
         "Security Name": "Trinity Capital Inc.",
-        "Closing Price": 13.35,
-        "Volume": 1104758,
+        "Closing Price": 13.11,
+        "Volume": 923988,
         "360-Day Mean IV": null,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 61.84,
         "30-Day Put IV": null,
-        "Market Cap": 712497630
+        "Market Cap": 699688683
     },
     {
         "Ticker": "LXP",
         "Security Name": "LXP Industrial Trust",
-        "Closing Price": 9.22,
-        "Volume": 2598682,
+        "Closing Price": 9.29,
+        "Volume": 2233049,
         "360-Day Mean IV": null,
         "Industry": "REIT - Industrial",
         "Sector": "Real Estate",
         "30-Day Call IV": 63.3,
         "30-Day Put IV": 60.72,
-        "Market Cap": 2713580206
+        "Market Cap": 2734182225
     },
     {
         "Ticker": "SHO",
         "Security Name": "Sunstone Hotel Investors, Inc.",
-        "Closing Price": 10.13,
-        "Volume": 1893752,
+        "Closing Price": 10.22,
+        "Volume": 3099358,
         "360-Day Mean IV": null,
         "Industry": "REIT - Hotel & Motel",
         "Sector": "Real Estate",
         "30-Day Call IV": 65.03,
         "30-Day Put IV": 52.71,
-        "Market Cap": 2063221651
+        "Market Cap": 2081552347
     },
     {
         "Ticker": "QXO",
         "Security Name": "QXO, Inc.",
-        "Closing Price": 15.25,
-        "Volume": 893491,
+        "Closing Price": 15.21,
+        "Volume": 485777,
         "360-Day Mean IV": null,
         "Industry": "Software - Application",
         "Sector": "Technology",
         "30-Day Call IV": 74.5,
         "30-Day Put IV": 78.1,
-        "Market Cap": 10132832
+        "Market Cap": 10106254
     },
     {
         "Ticker": "IAS",
         "Security Name": "Integral Ad Science Holding Corp.",
-        "Closing Price": 11.9,
-        "Volume": 863696,
+        "Closing Price": 11.85,
+        "Volume": 580785,
         "360-Day Mean IV": null,
         "Industry": "Advertising Agencies",
         "Sector": "Communication Services",
         "30-Day Call IV": 79.02,
         "30-Day Put IV": 50.96,
-        "Market Cap": 1910467709
+        "Market Cap": 1902440534
     },
     {
         "Ticker": "IEP",
         "Security Name": "Icahn Enterprises L.P.",
-        "Closing Price": 12.52,
-        "Volume": 677096,
+        "Closing Price": 12.14,
+        "Volume": 806180,
         "360-Day Mean IV": null,
         "Industry": "Oil & Gas Refining & Marketing",
         "Sector": "Energy",
         "30-Day Call IV": 95.54,
         "30-Day Put IV": 70.71,
-        "Market Cap": 5648949380
+        "Market Cap": 5477495645
     },
     {
         "Ticker": "RLAY",
         "Security Name": "Relay Therapeutics, Inc.",
-        "Closing Price": 5.84,
-        "Volume": 1259207,
+        "Closing Price": 5.85,
+        "Volume": 1316057,
         "360-Day Mean IV": null,
         "Industry": "Biotechnology",
         "Sector": "Healthcare",
         "30-Day Call IV": 111.66,
         "30-Day Put IV": 114.56,
-        "Market Cap": 775211393
+        "Market Cap": 776538810
     },
     {
         "Ticker": "CVI",
         "Security Name": "CVR Energy Inc.",
-        "Closing Price": 15.97,
-        "Volume": 3161785,
+        "Closing Price": 16.44,
+        "Volume": 2200849,
         "360-Day Mean IV": null,
         "Industry": "Oil & Gas Refining & Marketing",
         "Sector": "Energy",
         "30-Day Call IV": 121.16,
         "30-Day Put IV": null,
-        "Market Cap": 1605473666
+        "Market Cap": 1652723047
     },
     {
-        "Ticker": "RILY",
-        "Security Name": "B. Riley Financial, Inc.",
-        "Closing Price": 5.7,
-        "Volume": 1247481,
+        "Ticker": "CTKB",
+        "Security Name": "Cytek Biosciences, Inc.",
+        "Closing Price": 5.2,
+        "Volume": 681855,
         "360-Day Mean IV": null,
-        "Industry": "Financial Conglomerates",
-        "Sector": "Financial Services",
-        "30-Day Call IV": 200.9,
-        "30-Day Put IV": null,
-        "Market Cap": 174322364
+        "Industry": "Medical Devices",
+        "Sector": "Healthcare",
+        "30-Day Call IV": 237.61,
+        "30-Day Put IV": 130.5,
+        "Market Cap": 682619230
     },
     {
         "Ticker": "AGR",
         "Security Name": "Avangrid, Inc.",
-        "Closing Price": 35.59,
-        "Volume": 724922,
+        "Closing Price": 35.58,
+        "Volume": 510760,
         "360-Day Mean IV": 6.31,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 26.14,
         "30-Day Put IV": 30.61,
-        "Market Cap": 13770163344
+        "Market Cap": 13766294233
     },
     {
         "Ticker": "VSTO",
         "Security Name": "Vista Outdoor Inc.",
-        "Closing Price": 43.99,
-        "Volume": 609060,
+        "Closing Price": 43.89,
+        "Volume": 1145473,
         "360-Day Mean IV": 9.07,
         "Industry": "Leisure",
         "Sector": "Consumer Cyclical",
         "30-Day Call IV": 19.46,
         "30-Day Put IV": 20.22,
-        "Market Cap": 2566200420
+        "Market Cap": 2560366820
     },
     {
         "Ticker": "ALTR",
         "Security Name": "Altair Engineering Inc.",
-        "Closing Price": 104.0,
-        "Volume": 2292567,
+        "Closing Price": 103.99,
+        "Volume": 1608897,
         "360-Day Mean IV": 13.0,
         "Industry": "Software - Infrastructure",
         "Sector": "Technology",
         "30-Day Call IV": 10.02,
         "30-Day Put IV": 9.21,
-        "Market Cap": 8635417440
+        "Market Cap": 8827315002
     },
     {
         "Ticker": "CTLT",
         "Security Name": "Catalent, Inc.",
-        "Closing Price": 58.73,
-        "Volume": 1702635,
+        "Closing Price": 58.69,
+        "Volume": 1992592,
         "360-Day Mean IV": 13.61,
         "Industry": "Drug Manufacturers - Specialty & Generic",
         "Sector": "Healthcare",
         "30-Day Call IV": 27.42,
         "30-Day Put IV": 26.14,
-        "Market Cap": 10628946531
+        "Market Cap": 10621707337
     },
     {
         "Ticker": "OBDC",
         "Security Name": "Blue Owl Capital Corporation",
-        "Closing Price": 14.78,
-        "Volume": 1931559,
+        "Closing Price": 14.58,
+        "Volume": 1847514,
         "360-Day Mean IV": 14.42,
         "Industry": "Credit Services",
         "Sector": "Financial Services",
         "30-Day Call IV": 23.88,
         "30-Day Put IV": 19.12,
-        "Market Cap": 5760251789
+        "Market Cap": 5682305215
     },
     {
         "Ticker": "MPLX",
         "Security Name": "MPLX LP",
-        "Closing Price": 44.21,
-        "Volume": 1290524,
+        "Closing Price": 44.32,
+        "Volume": 2069214,
         "360-Day Mean IV": 14.69,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 21.01,
         "30-Day Put IV": 20.03,
-        "Market Cap": 44926011675
+        "Market Cap": 45037793202
     },
     {
         "Ticker": "ARCC",
         "Security Name": "Ares Capital Corporation",
-        "Closing Price": 21.0,
-        "Volume": 3432308,
+        "Closing Price": 20.88,
+        "Volume": 2952967,
         "360-Day Mean IV": 15.57,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 16.88,
         "30-Day Put IV": 14.55,
-        "Market Cap": 13238118411
+        "Market Cap": 13162472020
     },
     {
         "Ticker": "ATO",
         "Security Name": "Atmos Energy Corporation",
-        "Closing Price": 138.4,
-        "Volume": 849013,
+        "Closing Price": 137.67,
+        "Volume": 859405,
         "360-Day Mean IV": 16.1,
         "Industry": "Utilities - Regulated Gas",
         "Sector": "Utilities",
         "30-Day Call IV": 19.88,
         "30-Day Put IV": 18.99,
-        "Market Cap": 20881384550
+        "Market Cap": 20771244299
     },
     {
         "Ticker": "EPD",
         "Security Name": "Enterprise Products Partners L.P.",
-        "Closing Price": 28.82,
-        "Volume": 4449990,
+        "Closing Price": 29.13,
+        "Volume": 4459460,
         "360-Day Mean IV": 16.83,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 12.21,
         "30-Day Put IV": 14.42,
-        "Market Cap": 62584311762
+        "Market Cap": 63257494852
     },
     {
         "Ticker": "ENB",
         "Security Name": "Enbridge Inc",
-        "Closing Price": 40.42,
-        "Volume": 4852056,
+        "Closing Price": 40.83,
+        "Volume": 5595759,
         "360-Day Mean IV": 17.05,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 23.16,
         "30-Day Put IV": 19.17,
-        "Market Cap": 85936588276
+        "Market Cap": 88903975960
     },
     {
         "Ticker": "JNJ",
         "Security Name": "Johnson & Johnson",
-        "Closing Price": 160.13,
-        "Volume": 5145369,
+        "Closing Price": 158.24,
+        "Volume": 4579433,
         "360-Day Mean IV": 17.52,
         "Industry": "Drug Manufacturers - General",
         "Sector": "Healthcare",
         "30-Day Call IV": 19.28,
         "30-Day Put IV": 17.72,
-        "Market Cap": 385471928396
+        "Market Cap": 380922237866
     },
     {
         "Ticker": "OGE",
         "Security Name": "OGE Energy Corporation",
-        "Closing Price": 39.66,
-        "Volume": 2549335,
+        "Closing Price": 39.84,
+        "Volume": 2085290,
         "360-Day Mean IV": 17.7,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 51.91,
         "30-Day Put IV": 62.66,
-        "Market Cap": 7953727413
+        "Market Cap": 7989826025
     },
     {
         "Ticker": "LNT",
         "Security Name": "Alliant Energy Corporation",
-        "Closing Price": 57.74,
-        "Volume": 3217301,
+        "Closing Price": 57.51,
+        "Volume": 2307724,
         "360-Day Mean IV": 17.73,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 21.36,
         "30-Day Put IV": null,
-        "Market Cap": 14803325307
+        "Market Cap": 14744358130
     },
     {
         "Ticker": "PG",
         "Security Name": "Procter & Gamble Company (The)",
-        "Closing Price": 165.1,
-        "Volume": 5306916,
+        "Closing Price": 165.08,
+        "Volume": 5046398,
         "360-Day Mean IV": 17.88,
         "Industry": "Household & Personal Products",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 17.42,
         "30-Day Put IV": 16.64,
-        "Market Cap": 388653817953
+        "Market Cap": 388606736933
     },
     {
         "Ticker": "WCN",
         "Security Name": "Waste Connections, Inc.",
-        "Closing Price": 176.96,
-        "Volume": 457642,
+        "Closing Price": 177.64,
+        "Volume": 535548,
         "360-Day Mean IV": 17.9,
         "Industry": "Waste Management",
         "Sector": "Industrials",
         "30-Day Call IV": 19.14,
         "30-Day Put IV": 16.87,
-        "Market Cap": 45662302020
+        "Market Cap": 45837767466
     },
     {
         "Ticker": "BXSL",
         "Security Name": "Blackstone Secured Lending Fund",
-        "Closing Price": 30.59,
-        "Volume": 946440,
+        "Closing Price": 30.39,
+        "Volume": 952818,
         "360-Day Mean IV": 18.07,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 19.43,
         "30-Day Put IV": null,
-        "Market Cap": 5886710447
+        "Market Cap": 5848222638
     },
     {
         "Ticker": "KO",
         "Security Name": "CocaCola Company (The)",
-        "Closing Price": 65.01,
-        "Volume": 11343101,
+        "Closing Price": 65.11,
+        "Volume": 10838754,
         "360-Day Mean IV": 18.45,
         "Industry": "Beverages - Non-Alcoholic",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 18.42,
         "30-Day Put IV": 16.69,
-        "Market Cap": 280184528431
+        "Market Cap": 280615515246
     },
     {
         "Ticker": "ED",
         "Security Name": "Consolidated Edison Inc",
-        "Closing Price": 100.0,
-        "Volume": 2818310,
+        "Closing Price": 99.15,
+        "Volume": 2086249,
         "360-Day Mean IV": 18.52,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 26.94,
         "30-Day Put IV": 23.24,
-        "Market Cap": 34583471100
+        "Market Cap": 34289511595
     },
     {
         "Ticker": "KMB",
         "Security Name": "Kimberly-Clark Corporation",
-        "Closing Price": 134.61,
-        "Volume": 1675328,
+        "Closing Price": 133.74,
+        "Volume": 1536450,
         "360-Day Mean IV": 18.61,
         "Industry": "Household & Personal Products",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 19.39,
         "30-Day Put IV": 16.93,
-        "Market Cap": 45337243918
+        "Market Cap": 45044224066
     },
     {
         "Ticker": "RY",
         "Security Name": "Royal Bank Of Canada",
-        "Closing Price": 121.79,
-        "Volume": 613770,
+        "Closing Price": 122.27,
+        "Volume": 524269,
         "360-Day Mean IV": 18.61,
         "Industry": "Banks - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.14,
         "30-Day Put IV": 17.69,
-        "Market Cap": 172046765290
+        "Market Cap": 172724837770
     },
     {
         "Ticker": "ADC",
         "Security Name": "Agree Realty Corporation",
-        "Closing Price": 73.93,
-        "Volume": 950944,
+        "Closing Price": 74.0,
+        "Volume": 825165,
         "360-Day Mean IV": 18.62,
         "Industry": "REIT - Retail",
         "Sector": "Real Estate",
         "30-Day Call IV": 23.29,
         "30-Day Put IV": 19.47,
-        "Market Cap": 7439172907
+        "Market Cap": 7446216626
     },
     {
         "Ticker": "PNW",
         "Security Name": "Pinnacle West Capital Corporation",
-        "Closing Price": 85.83,
-        "Volume": 1115411,
+        "Closing Price": 85.71,
+        "Volume": 1422227,
         "360-Day Mean IV": 18.75,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 16.89,
         "30-Day Put IV": 29.57,
-        "Market Cap": 9746759099
+        "Market Cap": 9733132033
     },
     {
         "Ticker": "MMC",
         "Security Name": "Marsh & McLennan Companies, Inc.",
-        "Closing Price": 219.1,
-        "Volume": 1487871,
+        "Closing Price": 221.16,
+        "Volume": 1641153,
         "360-Day Mean IV": 18.91,
         "Industry": "Insurance Brokers",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.77,
         "30-Day Put IV": 21.4,
-        "Market Cap": 107743719442
+        "Market Cap": 108756736613
     },
     {
         "Ticker": "CMS",
         "Security Name": "CMS Energy Corporation",
-        "Closing Price": 68.3,
-        "Volume": 2805398,
+        "Closing Price": 68.39,
+        "Volume": 3560732,
         "360-Day Mean IV": 18.91,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 35.13,
         "30-Day Put IV": 22.71,
-        "Market Cap": 20403220615
+        "Market Cap": 20430106264
     },
     {
         "Ticker": "UL",
         "Security Name": "Unilever PLC",
-        "Closing Price": 61.32,
-        "Volume": 1789155,
+        "Closing Price": 61.31,
+        "Volume": 1410847,
         "360-Day Mean IV": 18.96,
         "Industry": "Household & Personal Products",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 17.58,
         "30-Day Put IV": 23.39,
-        "Market Cap": 154618216766
+        "Market Cap": 154593001792
     },
     {
         "Ticker": "FE",
         "Security Name": "FirstEnergy Corporation",
-        "Closing Price": 41.73,
-        "Volume": 5615997,
+        "Closing Price": 41.55,
+        "Volume": 2472540,
         "360-Day Mean IV": 18.98,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 24.75,
         "30-Day Put IV": 12.29,
-        "Market Cap": 24033242461
+        "Market Cap": 23929576426
     },
     {
         "Ticker": "PEP",
         "Security Name": "PepsiCo, Inc.",
-        "Closing Price": 165.59,
-        "Volume": 5579108,
+        "Closing Price": 166.34,
+        "Volume": 4218342,
         "360-Day Mean IV": 19.09,
         "Industry": "Beverages - Non-Alcoholic",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 21.49,
         "30-Day Put IV": 15.78,
-        "Market Cap": 227449853716
+        "Market Cap": 228480033016
     },
     {
         "Ticker": "RSG",
         "Security Name": "Republic Services, Inc.",
-        "Closing Price": 198.58,
-        "Volume": 1009150,
+        "Closing Price": 200.59,
+        "Volume": 981593,
         "360-Day Mean IV": 19.18,
         "Industry": "Waste Management",
         "Sector": "Industrials",
         "30-Day Call IV": 20.26,
         "30-Day Put IV": 19.46,
-        "Market Cap": 62367680432
+        "Market Cap": 62998957689
     },
     {
         "Ticker": "GLPI",
         "Security Name": "Gaming and Leisure Properties, Inc.",
-        "Closing Price": 49.82,
-        "Volume": 1296610,
+        "Closing Price": 50.59,
+        "Volume": 1105645,
         "360-Day Mean IV": 19.28,
         "Industry": "REIT - Specialty",
         "Sector": "Real Estate",
         "30-Day Call IV": 25.62,
         "30-Day Put IV": 23.79,
-        "Market Cap": 13670182786
+        "Market Cap": 13881464214
     },
     {
         "Ticker": "ORI",
         "Security Name": "Old Republic International Corporation",
-        "Closing Price": 34.5,
-        "Volume": 766715,
+        "Closing Price": 34.65,
+        "Volume": 1088688,
         "360-Day Mean IV": 19.39,
         "Industry": "Insurance - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 25.21,
         "30-Day Put IV": 26.73,
-        "Market Cap": 9378241225
+        "Market Cap": 8956815055
     },
     {
         "Ticker": "WM",
         "Security Name": "Waste Management, Inc.",
-        "Closing Price": 213.99,
-        "Volume": 1257713,
+        "Closing Price": 214.24,
+        "Volume": 1103796,
         "360-Day Mean IV": 19.45,
         "Industry": "Waste Management",
         "Sector": "Industrials",
         "30-Day Call IV": 18.47,
         "30-Day Put IV": 18.34,
-        "Market Cap": 85877359829
+        "Market Cap": 85977688536
     },
     {
         "Ticker": "XEL",
         "Security Name": "Xcel Energy Inc.",
-        "Closing Price": 66.69,
-        "Volume": 6808599,
+        "Closing Price": 65.82,
+        "Volume": 11667323,
         "360-Day Mean IV": 19.51,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 21.37,
         "30-Day Put IV": 23.25,
-        "Market Cap": 37179720415
+        "Market Cap": 36694694823
     },
     {
         "Ticker": "CNI",
         "Security Name": "Canadian National Railway Company",
-        "Closing Price": 108.21,
-        "Volume": 769504,
+        "Closing Price": 108.0,
+        "Volume": 816566,
         "360-Day Mean IV": 19.51,
         "Industry": "Railroads",
         "Sector": "Industrials",
         "30-Day Call IV": 26.31,
         "30-Day Put IV": 23.61,
-        "Market Cap": 68312972999
+        "Market Cap": 68180400000
     },
     {
         "Ticker": "NWE",
         "Security Name": "NorthWestern Corporation",
-        "Closing Price": 52.79,
-        "Volume": 332148,
+        "Closing Price": 52.58,
+        "Volume": 256573,
         "360-Day Mean IV": 19.6,
         "Industry": "Utilities - Diversified",
         "Sector": "Utilities",
         "30-Day Call IV": 19.85,
         "30-Day Put IV": 45.6,
-        "Market Cap": 3236053236
+        "Market Cap": 3223180132
     },
     {
         "Ticker": "SRE",
         "Security Name": "Sempra Energy",
-        "Closing Price": 81.65,
-        "Volume": 2783339,
+        "Closing Price": 80.81,
+        "Volume": 3350304,
         "360-Day Mean IV": 19.68,
         "Industry": "Utilities - Diversified",
         "Sector": "Utilities",
         "30-Day Call IV": 26.95,
         "30-Day Put IV": 24.27,
-        "Market Cap": 51671854915
+        "Market Cap": 51140264491
     },
     {
         "Ticker": "WEC",
         "Security Name": "WEC Energy Group, Inc.",
-        "Closing Price": 95.57,
-        "Volume": 3174840,
+        "Closing Price": 94.91,
+        "Volume": 2484631,
         "360-Day Mean IV": 19.78,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 23.19,
         "30-Day Put IV": null,
-        "Market Cap": 30183164639
+        "Market Cap": 29999095948
     },
     {
         "Ticker": "CHD",
         "Security Name": "Church & Dwight Co., Inc.",
-        "Closing Price": 104.75,
-        "Volume": 2950280,
+        "Closing Price": 102.96,
+        "Volume": 2406189,
         "360-Day Mean IV": 19.79,
         "Industry": "Household & Personal Products",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 22.66,
         "30-Day Put IV": 22.85,
-        "Market Cap": 25613779641
+        "Market Cap": 25176083549
     },
     {
         "Ticker": "BRK.B",
         "Security Name": "Berkshire Hathaway Inc.",
-        "Closing Price": 452.14,
-        "Volume": 2868414,
+        "Closing Price": 442.29,
+        "Volume": 5587620,
         "360-Day Mean IV": 19.81,
         "Industry": "Insurance - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.54,
         "30-Day Put IV": 20.83,
-        "Market Cap": 975194343737
+        "Market Cap": 953949454354
     },
     {
         "Ticker": "DUK",
         "Security Name": "Duke Energy Corporation",
-        "Closing Price": 112.68,
-        "Volume": 3507899,
+        "Closing Price": 112.52,
+        "Volume": 3036390,
         "360-Day Mean IV": 19.81,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 23.98,
         "30-Day Put IV": 28.41,
-        "Market Cap": 86962887200
+        "Market Cap": 86839404222
     },
     {
         "Ticker": "WTW",
         "Security Name": "Willis Towers Watson Public Limited Company",
-        "Closing Price": 299.3,
-        "Volume": 700308,
+        "Closing Price": 302.82,
+        "Volume": 813474,
         "360-Day Mean IV": 19.84,
         "Industry": "Insurance Brokers",
         "Sector": "Financial Services",
         "30-Day Call IV": 21.42,
         "30-Day Put IV": 21.12,
-        "Market Cap": 30395685359
+        "Market Cap": 30753162180
     },
     {
         "Ticker": "EVRG",
         "Security Name": "Evergy Inc.",
-        "Closing Price": 59.58,
-        "Volume": 1334338,
+        "Closing Price": 59.79,
+        "Volume": 1678020,
         "360-Day Mean IV": 19.84,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 25.17,
         "30-Day Put IV": 28.57,
-        "Market Cap": 13699176731
+        "Market Cap": 13747461845
     },
     {
         "Ticker": "BTI",
         "Security Name": "British American Tobacco p.l.c.",
-        "Closing Price": 35.07,
-        "Volume": 5053905,
+        "Closing Price": 35.11,
+        "Volume": 2657998,
         "360-Day Mean IV": 19.92,
         "Industry": "Tobacco",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 23.27,
         "30-Day Put IV": 20.54,
-        "Market Cap": 86164952748
+        "Market Cap": 86263230424
     },
     {
         "Ticker": "SEIC",
         "Security Name": "SEI Investments Company",
-        "Closing Price": 75.81,
-        "Volume": 638663,
+        "Closing Price": 75.66,
+        "Volume": 553522,
         "360-Day Mean IV": 20.02,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 29.0,
         "30-Day Put IV": 37.19,
-        "Market Cap": 9847179839
+        "Market Cap": 9827695906
     },
     {
         "Ticker": "AEP",
         "Security Name": "American Electric Power Company, Inc.",
-        "Closing Price": 97.25,
-        "Volume": 2830919,
+        "Closing Price": 98.4,
+        "Volume": 3696022,
         "360-Day Mean IV": 20.05,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 25.18,
         "30-Day Put IV": 26.25,
-        "Market Cap": 51262591062
+        "Market Cap": 51868781085
     },
     {
         "Ticker": "NVS",
         "Security Name": "Novartis AG",
-        "Closing Price": 109.35,
-        "Volume": 1110078,
+        "Closing Price": 110.52,
+        "Volume": 1054195,
         "360-Day Mean IV": 20.12,
         "Industry": "Drug Manufacturers - General",
         "Sector": "Healthcare",
         "30-Day Call IV": 21.22,
         "30-Day Put IV": 21.47,
-        "Market Cap": 221390010000
+        "Market Cap": 223758792000
     },
     {
         "Ticker": "MO",
         "Security Name": "Altria Group, Inc.",
-        "Closing Price": 53.87,
-        "Volume": 9480152,
+        "Closing Price": 53.88,
+        "Volume": 7670369,
         "360-Day Mean IV": 20.23,
         "Industry": "Tobacco",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 28.22,
         "30-Day Put IV": 24.31,
-        "Market Cap": 91914304549
+        "Market Cap": 91931366792
     },
     {
         "Ticker": "DEA",
         "Security Name": "Easterly Government Properties, Inc.",
-        "Closing Price": 13.37,
-        "Volume": 896844,
+        "Closing Price": 13.48,
+        "Volume": 889104,
         "360-Day Mean IV": 20.24,
         "Industry": "REIT - Office",
         "Sector": "Real Estate",
         "30-Day Call IV": 60.45,
         "30-Day Put IV": 38.48,
-        "Market Cap": 1377096349
+        "Market Cap": 1388426236
     },
     {
         "Ticker": "BMO",
         "Security Name": "Bank Of Montreal",
-        "Closing Price": 90.76,
-        "Volume": 514417,
+        "Closing Price": 90.06,
+        "Volume": 990912,
         "360-Day Mean IV": 20.27,
         "Industry": "Banks - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 22.93,
         "30-Day Put IV": 23.22,
-        "Market Cap": 66187011265
+        "Market Cap": 65676534095
     },
     {
         "Ticker": "YUM",
         "Security Name": "Yum! Brands, Inc.",
-        "Closing Price": 132.34,
-        "Volume": 1862787,
+        "Closing Price": 132.76,
+        "Volume": 2652132,
         "360-Day Mean IV": 20.32,
         "Industry": "Restaurants",
         "Sector": "Consumer Cyclical",
         "30-Day Call IV": 26.92,
         "30-Day Put IV": 26.74,
-        "Market Cap": 37271206936
+        "Market Cap": 37389492465
     },
     {
         "Ticker": "ITW",
         "Security Name": "Illinois Tool Works Inc.",
-        "Closing Price": 263.08,
-        "Volume": 880340,
+        "Closing Price": 263.88,
+        "Volume": 735296,
         "360-Day Mean IV": 20.46,
         "Industry": "Specialty Industrial Machinery",
         "Sector": "Industrials",
         "30-Day Call IV": 21.75,
         "30-Day Put IV": 21.5,
-        "Market Cap": 78108452000
+        "Market Cap": 78345972000
     },
     {
         "Ticker": "GD",
         "Security Name": "General Dynamics Corporation",
-        "Closing Price": 292.99,
-        "Volume": 1355332,
+        "Closing Price": 293.6,
+        "Volume": 1043617,
         "360-Day Mean IV": 20.47,
         "Industry": "Aerospace & Defense",
         "Sector": "Industrials",
         "30-Day Call IV": 18.76,
         "30-Day Put IV": 16.76,
-        "Market Cap": 80507082871
+        "Market Cap": 80674697194
     },
     {
         "Ticker": "DTE",
         "Security Name": "DTE Energy Company",
-        "Closing Price": 121.29,
-        "Volume": 974992,
+        "Closing Price": 121.63,
+        "Volume": 872439,
         "360-Day Mean IV": 20.49,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 24.75,
         "30-Day Put IV": 22.49,
-        "Market Cap": 25109465503
+        "Market Cap": 25179852330
     },
     {
         "Ticker": "MCD",
         "Security Name": "McDonald's Corporation",
-        "Closing Price": 295.21,
-        "Volume": 3625272,
+        "Closing Price": 292.85,
+        "Volume": 2572303,
         "360-Day Mean IV": 20.53,
         "Industry": "Restaurants",
         "Sector": "Consumer Cyclical",
         "30-Day Call IV": 20.09,
         "30-Day Put IV": 17.59,
-        "Market Cap": 212752431667
+        "Market Cap": 211051622959
     },
     {
         "Ticker": "AON",
         "Security Name": "Aon plc",
-        "Closing Price": 364.42,
-        "Volume": 731276,
+        "Closing Price": 365.64,
+        "Volume": 1137499,
         "360-Day Mean IV": 20.61,
         "Industry": "Insurance Brokers",
         "Sector": "Financial Services",
         "30-Day Call IV": 19.64,
         "30-Day Put IV": 20.07,
-        "Market Cap": 79167388311
+        "Market Cap": 79432423748
     },
     {
         "Ticker": "GIS",
         "Security Name": "General Mills, Inc.",
-        "Closing Price": 68.24,
-        "Volume": 3387816,
+        "Closing Price": 68.09,
+        "Volume": 2752717,
         "360-Day Mean IV": 20.65,
         "Industry": "Packaged Foods",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 21.96,
         "30-Day Put IV": 21.61,
-        "Market Cap": 38087860316
+        "Market Cap": 38004138466
     },
     {
         "Ticker": "ADP",
         "Security Name": "Automatic Data Processing, Inc.",
-        "Closing Price": 288.18,
-        "Volume": 2017511,
+        "Closing Price": 289.86,
+        "Volume": 1174366,
         "360-Day Mean IV": 20.68,
         "Industry": "Staffing & Employment Services",
         "Sector": "Industrials",
         "30-Day Call IV": 19.99,
         "30-Day Put IV": 19.49,
-        "Market Cap": 117949576055
+        "Market Cap": 118203517541
     },
     {
         "Ticker": "BNL",
         "Security Name": "Broadstone Net Lease, Inc.",
-        "Closing Price": 17.46,
-        "Volume": 1224422,
+        "Closing Price": 17.54,
+        "Volume": 837058,
         "360-Day Mean IV": 20.69,
         "Industry": "REIT - Diversified",
         "Sector": "Real Estate",
         "30-Day Call IV": 26.49,
         "30-Day Put IV": 20.67,
-        "Market Cap": 3289988061
+        "Market Cap": 3306596686
     },
     {
         "Ticker": "SO",
         "Security Name": "Southern Company (The)",
-        "Closing Price": 88.54,
-        "Volume": 6807556,
+        "Closing Price": 88.12,
+        "Volume": 4725694,
         "360-Day Mean IV": 20.73,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 23.48,
         "30-Day Put IV": 24.11,
-        "Market Cap": 96912850353
+        "Market Cap": 96453132744
     },
     {
         "Ticker": "O",
         "Security Name": "Realty Income Corporation",
-        "Closing Price": 58.88,
-        "Volume": 4600009,
+        "Closing Price": 59.29,
+        "Volume": 4669875,
         "360-Day Mean IV": 20.76,
         "Industry": "REIT - Retail",
         "Sector": "Real Estate",
         "30-Day Call IV": 22.17,
         "30-Day Put IV": 23.39,
-        "Market Cap": 51271198791
+        "Market Cap": 51628216310
     },
     {
         "Ticker": "SON",
         "Security Name": "Sonoco Products Company",
-        "Closing Price": 51.14,
-        "Volume": 1382668,
+        "Closing Price": 50.56,
+        "Volume": 768653,
         "360-Day Mean IV": 20.81,
         "Industry": "Packaging & Containers",
         "Sector": "Consumer Cyclical",
         "30-Day Call IV": 25.69,
         "30-Day Put IV": 24.85,
-        "Market Cap": 5024802583
+        "Market Cap": 4967911789
     },
     {
         "Ticker": "ET",
         "Security Name": "Energy Transfer LP",
-        "Closing Price": 16.43,
-        "Volume": 12751189,
+        "Closing Price": 16.51,
+        "Volume": 13801245,
         "360-Day Mean IV": 20.82,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 12.29,
         "30-Day Put IV": 26.51,
-        "Market Cap": 55369483114
+        "Market Cap": 55639084980
     },
     {
         "Ticker": "CL",
         "Security Name": "Colgate-Palmolive Company",
-        "Closing Price": 93.33,
-        "Volume": 4687265,
+        "Closing Price": 93.61,
+        "Volume": 4069687,
         "360-Day Mean IV": 20.84,
         "Industry": "Household & Personal Products",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 21.47,
         "30-Day Put IV": 18.74,
-        "Market Cap": 76258743242
+        "Market Cap": 76487527643
     },
     {
         "Ticker": "L",
         "Security Name": "Loews Corporation",
-        "Closing Price": 79.27,
-        "Volume": 637775,
+        "Closing Price": 76.51,
+        "Volume": 1003566,
         "360-Day Mean IV": 20.84,
         "Industry": "Insurance - Property & Casualty",
         "Sector": "Financial Services",
         "30-Day Call IV": 25.99,
         "30-Day Put IV": 26.08,
-        "Market Cap": 17550874150
+        "Market Cap": 16939792876
     },
     {
         "Ticker": "GSBD",
         "Security Name": "Goldman Sachs BDC, Inc.",
-        "Closing Price": 13.21,
-        "Volume": 774585,
+        "Closing Price": 12.91,
+        "Volume": 986982,
         "360-Day Mean IV": 20.86,
         "Industry": "Asset Management",
         "Sector": "Financial Services",
         "30-Day Call IV": 50.62,
         "30-Day Put IV": null,
-        "Market Cap": 1482468524
+        "Market Cap": 1448801563
     },
     {
         "Ticker": "LIN",
         "Security Name": "Linde PLC",
-        "Closing Price": 457.31,
-        "Volume": 2288889,
+        "Closing Price": 458.32,
+        "Volume": 1598188,
         "360-Day Mean IV": 20.92,
         "Industry": "Specialty Chemicals",
         "Sector": "Basic Materials",
         "30-Day Call IV": 17.54,
         "30-Day Put IV": 18.68,
-        "Market Cap": 218366776657
+        "Market Cap": 218849054421
     },
     {
         "Ticker": "EXC",
         "Security Name": "Exelon Corporation",
-        "Closing Price": 38.15,
-        "Volume": 5713283,
+        "Closing Price": 37.97,
+        "Volume": 7223317,
         "360-Day Mean IV": 20.94,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 23.27,
         "30-Day Put IV": 20.17,
-        "Market Cap": 38169006597
+        "Market Cap": 37988916919
     },
     {
         "Ticker": "BCE",
         "Security Name": "BCE, Inc.",
-        "Closing Price": 32.1,
-        "Volume": 1734330,
+        "Closing Price": 29.12,
+        "Volume": 10145634,
         "360-Day Mean IV": 20.96,
         "Industry": "Telecom Services",
         "Sector": "Communication Services",
         "30-Day Call IV": 27.7,
         "30-Day Put IV": 23.13,
-        "Market Cap": 29284830000
+        "Market Cap": 26566176000
     },
     {
         "Ticker": "EIX",
         "Security Name": "Edison International",
-        "Closing Price": 81.13,
-        "Volume": 2101669,
+        "Closing Price": 81.0,
+        "Volume": 2855044,
         "360-Day Mean IV": 21.05,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 23.05,
         "30-Day Put IV": 23.41,
-        "Market Cap": 31330519402
+        "Market Cap": 31280316426
     },
     {
         "Ticker": "AJG",
         "Security Name": "Arthur J. Gallagher & Co.",
-        "Closing Price": 280.4,
-        "Volume": 725505,
+        "Closing Price": 281.65,
+        "Volume": 645433,
         "360-Day Mean IV": 21.06,
         "Industry": "Insurance Brokers",
         "Sector": "Financial Services",
         "30-Day Call IV": 24.42,
         "30-Day Put IV": 24.03,
-        "Market Cap": 61435639999
+        "Market Cap": 61709514999
     },
     {
         "Ticker": "CME",
         "Security Name": "CME Group Inc.",
-        "Closing Price": 223.61,
-        "Volume": 1318479,
+        "Closing Price": 223.08,
+        "Volume": 1171848,
         "360-Day Mean IV": 21.09,
         "Industry": "Financial Data & Stock Exchanges",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.03,
         "30-Day Put IV": 19.2,
-        "Market Cap": 80513803707
+        "Market Cap": 80322970041
     },
     {
         "Ticker": "PAA",
         "Security Name": "Plains All American Pipeline, L.P.",
-        "Closing Price": 16.39,
-        "Volume": 3355422,
+        "Closing Price": 16.71,
+        "Volume": 5004369,
         "360-Day Mean IV": 21.12,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 23.52,
         "30-Day Put IV": 21.8,
-        "Market Cap": 11490554198
+        "Market Cap": 11714896928
     },
     {
         "Ticker": "CTRE",
         "Security Name": "CareTrust REIT, Inc.",
-        "Closing Price": 32.37,
-        "Volume": 7108510,
+        "Closing Price": 31.06,
+        "Volume": 6886087,
         "360-Day Mean IV": 21.15,
         "Industry": "REIT - Healthcare Facilities",
         "Sector": "Real Estate",
         "30-Day Call IV": 39.56,
         "30-Day Put IV": null,
-        "Market Cap": 4991754037
+        "Market Cap": 4789739895
     },
     {
         "Ticker": "AEE",
         "Security Name": "Ameren Corporation",
-        "Closing Price": 85.88,
-        "Volume": 1882860,
+        "Closing Price": 86.02,
+        "Volume": 1807936,
         "360-Day Mean IV": 21.2,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 25.09,
         "30-Day Put IV": 24.9,
-        "Market Cap": 22901651719
+        "Market Cap": 22938985571
     },
     {
         "Ticker": "LMT",
         "Security Name": "Lockheed Martin Corporation",
-        "Closing Price": 545.35,
-        "Volume": 783989,
+        "Closing Price": 543.1,
+        "Volume": 813307,
         "360-Day Mean IV": 21.22,
         "Industry": "Aerospace & Defense",
         "Sector": "Industrials",
         "30-Day Call IV": 20.93,
         "30-Day Put IV": 19.04,
-        "Market Cap": 129988536936
+        "Market Cap": 129452231429
     },
     {
         "Ticker": "TD",
         "Security Name": "Toronto Dominion Bank (The)",
-        "Closing Price": 54.99,
-        "Volume": 1291904,
+        "Closing Price": 55.03,
+        "Volume": 1343264,
         "360-Day Mean IV": 21.22,
         "Industry": "Banks - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 21.64,
         "30-Day Put IV": 20.75,
-        "Market Cap": 100494225000
+        "Market Cap": 100567325000
     },
     {
         "Ticker": "EQR",
         "Security Name": "Equity Residential",
-        "Closing Price": 69.12,
-        "Volume": 2330756,
+        "Closing Price": 70.22,
+        "Volume": 1557118,
         "360-Day Mean IV": 21.28,
         "Industry": "REIT - Residential",
         "Sector": "Real Estate",
         "30-Day Call IV": 24.52,
         "30-Day Put IV": 24.5,
-        "Market Cap": 26194544570
+        "Market Cap": 26611413769
     },
     {
         "Ticker": "PPL",
         "Security Name": "PPL Corporation",
-        "Closing Price": 31.56,
-        "Volume": 5944218,
+        "Closing Price": 32.06,
+        "Volume": 15354797,
         "360-Day Mean IV": 21.3,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 23.03,
         "30-Day Put IV": 22.76,
-        "Market Cap": 23283101510
+        "Market Cap": 23653012126
     },
     {
         "Ticker": "MDLZ",
         "Security Name": "Mondelez International, Inc.",
-        "Closing Price": 68.51,
-        "Volume": 6468257,
+        "Closing Price": 68.36,
+        "Volume": 5145466,
         "360-Day Mean IV": 21.45,
         "Industry": "Confectioners",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 20.38,
         "30-Day Put IV": 18.66,
-        "Market Cap": 91515500838
+        "Market Cap": 91315131182
     },
     {
         "Ticker": "HIG",
         "Security Name": "The Hartford Financial Services Group, Inc.",
-        "Closing Price": 110.09,
-        "Volume": 1891013,
+        "Closing Price": 111.16,
+        "Volume": 1410604,
         "360-Day Mean IV": 21.46,
         "Industry": "Insurance - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 23.27,
         "30-Day Put IV": 23.5,
-        "Market Cap": 32257957717
+        "Market Cap": 32571483149
     },
     {
         "Ticker": "TRNO",
         "Security Name": "Terreno Realty Corporation",
-        "Closing Price": 59.9,
-        "Volume": 472061,
+        "Closing Price": 60.67,
+        "Volume": 461339,
         "360-Day Mean IV": 21.46,
         "Industry": "REIT - Industrial",
         "Sector": "Real Estate",
         "30-Day Call IV": 41.66,
         "30-Day Put IV": 27.72,
-        "Market Cap": 5792575709
+        "Market Cap": 5867037868
     },
     {
         "Ticker": "WPC",
         "Security Name": "W.P. Carey Inc.",
-        "Closing Price": 55.12,
-        "Volume": 1579214,
+        "Closing Price": 55.34,
+        "Volume": 1016836,
         "360-Day Mean IV": 21.51,
         "Industry": "REIT - Diversified",
         "Sector": "Real Estate",
         "30-Day Call IV": 23.67,
         "30-Day Put IV": 23.28,
-        "Market Cap": 12062847466
+        "Market Cap": 12110993810
     },
     {
         "Ticker": "VLTO",
         "Security Name": "Veralto Corporation",
-        "Closing Price": 101.59,
-        "Volume": 1116173,
+        "Closing Price": 102.43,
+        "Volume": 960610,
         "360-Day Mean IV": 21.56,
         "Industry": "Pollution & Treatment Controls",
         "Sector": "Industrials",
         "30-Day Call IV": 21.98,
         "30-Day Put IV": 23.13,
-        "Market Cap": 25103539176
+        "Market Cap": 25311108552
     },
     {
         "Ticker": "KDP",
         "Security Name": "Keurig Dr Pepper, Inc",
-        "Closing Price": 32.82,
-        "Volume": 12420052,
+        "Closing Price": 32.68,
+        "Volume": 10677029,
         "360-Day Mean IV": 21.57,
         "Industry": "Beverages - Non-Alcoholic",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 20.93,
         "30-Day Put IV": 20.33,
-        "Market Cap": 44506754893
+        "Market Cap": 44316902800
     },
     {
         "Ticker": "ELS",
         "Security Name": "Equity Lifestyle Properties, Inc.",
-        "Closing Price": 69.32,
-        "Volume": 1058880,
+        "Closing Price": 69.42,
+        "Volume": 862058,
         "360-Day Mean IV": 21.64,
         "Industry": "REIT - Residential",
         "Sector": "Real Estate",
         "30-Day Call IV": 28.3,
         "30-Day Put IV": 32.54,
-        "Market Cap": 12929462142
+        "Market Cap": 12948113992
     },
     {
         "Ticker": "SYY",
         "Security Name": "Sysco Corporation",
-        "Closing Price": 75.03,
-        "Volume": 2630590,
+        "Closing Price": 75.37,
+        "Volume": 2938688,
         "360-Day Mean IV": 21.66,
         "Industry": "Food Distribution",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 21.47,
         "30-Day Put IV": 21.36,
-        "Market Cap": 36878789417
+        "Market Cap": 37045906416
     },
     {
         "Ticker": "POR",
         "Security Name": "Portland General Electric Company",
-        "Closing Price": 46.1,
-        "Volume": 768059,
+        "Closing Price": 46.14,
+        "Volume": 816835,
         "360-Day Mean IV": 21.72,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 21.44,
         "30-Day Put IV": null,
-        "Market Cap": 4751374086
+        "Market Cap": 4755496753
     },
     {
         "Ticker": "DGX",
         "Security Name": "Quest Diagnostics Incorporated",
-        "Closing Price": 155.29,
-        "Volume": 1093950,
+        "Closing Price": 154.33,
+        "Volume": 554238,
         "360-Day Mean IV": 21.72,
         "Industry": "Diagnostics & Research",
         "Sector": "Healthcare",
         "30-Day Call IV": 21.59,
         "30-Day Put IV": 21.15,
-        "Market Cap": 17286449230
+        "Market Cap": 17179584710
     },
     {
         "Ticker": "ETR",
         "Security Name": "Entergy Corporation",
-        "Closing Price": 144.79,
-        "Volume": 3827986,
+        "Closing Price": 142.43,
+        "Volume": 2915811,
         "360-Day Mean IV": 21.73,
         "Industry": "Utilities - Regulated Electric",
         "Sector": "Utilities",
         "30-Day Call IV": 24.85,
         "30-Day Put IV": 23.03,
-        "Market Cap": 30918012963
+        "Market Cap": 30455927395
     },
     {
         "Ticker": "MAA",
         "Security Name": "Mid-America Apartment Communities, Inc.",
-        "Closing Price": 149.17,
-        "Volume": 1023605,
+        "Closing Price": 152.18,
+        "Volume": 644796,
         "360-Day Mean IV": 21.77,
         "Industry": "REIT - Residential",
         "Sector": "Real Estate",
         "30-Day Call IV": 22.99,
         "30-Day Put IV": 26.35,
-        "Market Cap": 17434422604
+        "Market Cap": 17786219963
     },
     {
         "Ticker": "AWK",
         "Security Name": "American Water Works Company, Inc.",
-        "Closing Price": 136.0,
-        "Volume": 1044297,
+        "Closing Price": 135.3,
+        "Volume": 1568460,
         "360-Day Mean IV": 21.77,
         "Industry": "Utilities - Regulated Water",
         "Sector": "Utilities",
         "30-Day Call IV": 24.83,
         "30-Day Put IV": 24.36,
-        "Market Cap": 26501372624
+        "Market Cap": 26364968500
     },
     {
         "Ticker": "DTM",
         "Security Name": "DT Midstream, Inc.",
-        "Closing Price": 88.96,
-        "Volume": 775999,
+        "Closing Price": 89.87,
+        "Volume": 479347,
         "360-Day Mean IV": 21.77,
         "Industry": "Oil & Gas Midstream",
         "Sector": "Energy",
         "30-Day Call IV": 25.52,
         "30-Day Put IV": 30.58,
-        "Market Cap": 8639054696
+        "Market Cap": 8727426322
     },
     {
         "Ticker": "V",
         "Security Name": "Visa Inc.",
-        "Closing Price": 290.74,
-        "Volume": 5438870,
+        "Closing Price": 291.85,
+        "Volume": 4240535,
         "360-Day Mean IV": 21.8,
         "Industry": "Credit Services",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.51,
         "30-Day Put IV": 20.53,
-        "Market Cap": 584388402403
+        "Market Cap": 586619506230
     },
     {
         "Ticker": "PKG",
         "Security Name": "Packaging Corporation of America",
-        "Closing Price": 229.99,
-        "Volume": 655091,
+        "Closing Price": 230.17,
+        "Volume": 471503,
         "360-Day Mean IV": 21.82,
         "Industry": "Packaging & Containers",
         "Sector": "Consumer Cyclical",
         "30-Day Call IV": 21.86,
         "30-Day Put IV": 21.53,
-        "Market Cap": 20652637190
+        "Market Cap": 20668800826
     },
     {
         "Ticker": "MDT",
         "Security Name": "Medtronic PLC",
-        "Closing Price": 90.07,
-        "Volume": 3709603,
+        "Closing Price": 89.31,
+        "Volume": 3782831,
         "360-Day Mean IV": 21.82,
         "Industry": "Medical Devices",
         "Sector": "Healthcare",
         "30-Day Call IV": 24.59,
         "30-Day Put IV": 20.44,
-        "Market Cap": 115494039354
+        "Market Cap": 114519514319
     },
     {
         "Ticker": "ICE",
         "Security Name": "Intercontinental Exchange Inc.",
-        "Closing Price": 154.64,
-        "Volume": 3711708,
+        "Closing Price": 154.49,
+        "Volume": 2418500,
         "360-Day Mean IV": 21.84,
         "Industry": "Financial Data & Stock Exchanges",
         "Sector": "Financial Services",
         "30-Day Call IV": 23.78,
         "30-Day Put IV": 20.95,
-        "Market Cap": 88785332642
+        "Market Cap": 88699211329
     },
     {
         "Ticker": "CM",
         "Security Name": "Canadian Imperial Bank of Commerce",
-        "Closing Price": 62.95,
-        "Volume": 525432,
+        "Closing Price": 63.2,
+        "Volume": 593221,
         "360-Day Mean IV": 21.89,
         "Industry": "Banks - Diversified",
         "Sector": "Financial Services",
         "30-Day Call IV": 22.0,
         "30-Day Put IV": 22.01,
-        "Market Cap": 59361975900
+        "Market Cap": 59597726400
     },
     {
         "Ticker": "COR",
         "Security Name": "Cencora, Inc.",
-        "Closing Price": 234.27,
-        "Volume": 1608779,
+        "Closing Price": 233.89,
+        "Volume": 1019698,
         "360-Day Mean IV": 21.93,
         "Industry": "Medical Distribution",
         "Sector": "Healthcare",
         "30-Day Call IV": 30.76,
         "30-Day Put IV": 30.9,
-        "Market Cap": 46725571077
+        "Market Cap": 46649779396
     },
     {
         "Ticker": "MA",
         "Security Name": "Mastercard Incorporated",
-        "Closing Price": 508.08,
-        "Volume": 3680848,
+        "Closing Price": 505.58,
+        "Volume": 2128178,
         "360-Day Mean IV": 21.94,
         "Industry": "Credit Services",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.79,
         "30-Day Put IV": 20.71,
-        "Market Cap": 469382080703
+        "Market Cap": 467072493233
     },
     {
         "Ticker": "NOC",
         "Security Name": "Northrop Grumman Corporation",
-        "Closing Price": 506.95,
-        "Volume": 492943,
+        "Closing Price": 507.44,
+        "Volume": 434565,
         "360-Day Mean IV": 21.95,
         "Industry": "Aerospace & Defense",
         "Sector": "Industrials",
         "30-Day Call IV": 22.23,
         "30-Day Put IV": 20.09,
-        "Market Cap": 74139036584
+        "Market Cap": 74210696764
     },
     {
         "Ticker": "BKH",
         "Security Name": "Black Hills Corporation",
-        "Closing Price": 57.92,
-        "Volume": 357520,
+        "Closing Price": 57.6,
+        "Volume": 327632,
         "360-Day Mean IV": 21.95,
         "Industry": "Utilities - Diversified",
         "Sector": "Utilities",
         "30-Day Call IV": 32.38,
         "30-Day Put IV": null,
-        "Market Cap": 3992617083
+        "Market Cap": 3970558425
     },
     {
         "Ticker": "NDAQ",
         "Security Name": "Nasdaq, Inc.",
-        "Closing Price": 74.32,
-        "Volume": 2626002,
+        "Closing Price": 74.81,
+        "Volume": 2181768,
         "360-Day Mean IV": 22.0,
         "Industry": "Financial Data & Stock Exchanges",
         "Sector": "Financial Services",
         "30-Day Call IV": 24.14,
         "30-Day Put IV": 24.12,
-        "Market Cap": 42803885845
+        "Market Cap": 43086096610
     },
     {
         "Ticker": "AVB",
         "Security Name": "AvalonBay Communities, Inc.",
-        "Closing Price": 216.28,
-        "Volume": 877552,
+        "Closing Price": 218.5,
+        "Volume": 605075,
         "360-Day Mean IV": 22.02,
         "Industry": "REIT - Residential",
         "Sector": "Real Estate",
         "30-Day Call IV": 27.71,
         "30-Day Put IV": 27.23,
-        "Market Cap": 30751964938
+        "Market Cap": 31067617620
     },
     {
         "Ticker": "ABT",
         "Security Name": "Abbott Laboratories",
-        "Closing Price": 118.6,
-        "Volume": 9192073,
+        "Closing Price": 117.65,
+        "Volume": 5543430,
         "360-Day Mean IV": 22.05,
         "Industry": "Medical Devices",
         "Sector": "Healthcare",
         "30-Day Call IV": 20.43,
         "30-Day Put IV": 21.52,
-        "Market Cap": 206351784674
+        "Market Cap": 204698882520
     },
     {
         "Ticker": "VRSK",
         "Security Name": "Verisk Analytics, Inc.",
-        "Closing Price": 275.48,
-        "Volume": 979562,
+        "Closing Price": 277.22,
+        "Volume": 457655,
         "360-Day Mean IV": 22.06,
         "Industry": "Consulting Services",
         "Sector": "Industrials",
         "30-Day Call IV": 22.05,
         "30-Day Put IV": 22.49,
-        "Market Cap": 39234912831
+        "Market Cap": 39482730271
     },
     {
         "Ticker": "BRO",
         "Security Name": "Brown & Brown, Inc.",
-        "Closing Price": 104.17,
-        "Volume": 914143,
+        "Closing Price": 105.45,
+        "Volume": 762198,
         "360-Day Mean IV": 22.07,
         "Industry": "Insurance Brokers",
         "Sector": "Financial Services",
         "30-Day Call IV": 20.04,
         "30-Day Put IV": 23.11,
-        "Market Cap": 29715637953
+        "Market Cap": 30080772028
     },
     {
         "Ticker": "KVUE",
         "Security Name": "Kenvue Inc.",
-        "Closing Price": 22.73,
-        "Volume": 15312576,
+        "Closing Price": 23.04,
+        "Volume": 17119075,
         "360-Day Mean IV": 22.08,
         "Industry": "Household & Personal Products",
         "Sector": "Consumer Defensive",
         "30-Day Call IV": 22.81,
         "30-Day Put IV": 41.94,
-        "Market Cap": 43523649393
+        "Market Cap": 44117240739
     },
     {
         "Ticker": "AVY",
         "Security Name": "Avery Dennison Corporation",
-        "Closing Price": 206.11,
-        "Volume": 387015,
+        "Closing Price": 205.57,
+        "Volume": 336582,
         "360-Day Mean IV": 22.09,
         "Industry": "Packaging & Containers",
         "Sector": "Consumer Cyclical",
         "30-Day Call IV": 22.39,
         "30-Day Put IV": 23.3,
-        "Market Cap": 16595782013
+        "Market Cap": 16552301725
     },
     {
         "Ticker": "SSNC",
         "Security Name": "SS&C Technologies Holdings, Inc.",
-        "Closing Price": 70.4,
-        "Volume": 1637543,
+        "Closing Price": 70.77,
+        "Volume": 1191918,
         "360-Day Mean IV": 22.1,
         "Industry": "Software - Application",
         "Sector": "Technology",
         "30-Day Call IV": 22.34,
         "30-Day Put IV": 25.83,
-        "Market Cap": 17277562931
+        "Market Cap": 17368368304
     },
     {
         "Ticker": "APLE",
         "Security Name": "Apple Hospitality REIT, Inc.",
-        "Closing Price": 14.68,
-        "Volume": 1231557,
+        "Closing Price": 14.73,
+        "Volume": 1486796,
         "360-Day Mean IV": 22.12,
         "Industry": "REIT - Hotel & Motel",
         "Sector": "Real Estate",
         "30-Day Call IV": 33.54,
         "30-Day Put IV": 27.49,
-        "Market Cap": 3557642039
+        "Market Cap": 3569759349
     },
     {
         "Ticker": "AME",
         "Security Name": "AMETEK, Inc.",
-        "Closing Price": 178.43,
-        "Volume": 1953669,
+        "Closing Price": 179.92,
+        "Volume": 959607,
         "360-Day Mean IV": 22.14,
         "Industry": "Specialty Industrial Machinery",
         "Sector": "Industrials",
         "30-Day Call IV": 22.15,
         "30-Day Put IV": 20.2,
-        "Market Cap": 41312962234
-    },
-    {
-        "Ticker": "WTRG",
-        "Security Name": "Essential Utilities Inc.",
-        "Closing Price": 38.24,
-        "Volume": 1787115,
-        "360-Day Mean IV": 22.17,
-        "Industry": "Utilities - Regulated Water",
-        "Sector": "Utilities",
-        "30-Day Call IV": 36.46,
-        "30-Day Put IV": null,
-        "Market Cap": 10459539901
+        "Market Cap": 41657950822
     }
 ]
